@@ -3674,6 +3674,21 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/Cedric_OSD.txt",
+      "hash": "efd05a523783faecc33ec9d1c2df82173a847ac48776b803289c4cca073aed07",
+      "title": "Cedric 4.4 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Cedric",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/defaults.txt",
       "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
       "title": "Default 4.4 OSD settings",
