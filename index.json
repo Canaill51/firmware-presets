@@ -157,6 +157,7 @@
       "benlumley",
       "Betaflight",
       "BMSThomas",
+      "Cedric",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "Directory",
@@ -3688,6 +3689,22 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/rates/Cedric_Rates.txt",
+      "hash": "aa260e8b29ae8d84c38a6a8bb05aeb0f347e4fcea2ec3b8756fdde36b2c486e7",
+      "title": "Cedric Rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates"
+      ],
+      "author": "Cedric",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
