@@ -746,11 +746,12 @@
     },
     {
       "fullPath": "presets/4.3/filters/karate_array.txt",
-      "hash": "faf6fc71b3248d86bccb759cc653fa3a784dc2616f7dbfc4b1285f836992fe56",
+      "hash": "a5f23209a7bb9fd009fb6a83b456d4661119c1b58ffc4086c678b390319e1afb",
       "title": "the Karate array",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "FILTERS",
       "status": "OFFICIAL",
@@ -1172,11 +1173,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Bardwell.txt",
-      "hash": "7c4cadcce2243e35b482e4c8e8d34943384ba693b1323843b51484503550dfc3",
+      "hash": "e6b2324edc8d7b670e4b36c77f9f95f81ca1b73284c8a226542da33e83db84ec",
       "title": "Joshua Bardwell rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1190,11 +1192,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/BMSThomas.txt",
-      "hash": "72813b60f5841eea61bfcda0f31d21dc18eb89832e18a34f4471b8a013af9815",
+      "hash": "5c293a69b25d62dfc615d8f773883f644b2e473def874b79a7aab506499dbc19",
       "title": "BMSThomas racing/freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1209,11 +1212,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/CGo.txt",
-      "hash": "2a2551bf40bcc97ee19a8af1f2c0f23ff4a038ff5e17d054ee2f9043ec2dbd89",
+      "hash": "2191ad344bfdd62e62995077238163bfcd38ad1eb1390c4fbdbb48ffb92c478c",
       "title": "CGo race rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1229,11 +1233,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Chief.txt",
-      "hash": "7f9d2b2429b6ab754a94e66fe764f5c19c294dbc33b00b4fa5fb03f2e4b196ee",
+      "hash": "75f5e1166714f90eb8fdff13a2e0ff05933aebcc6014822774c3cc5ae498f537",
       "title": "Chief race/freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1250,11 +1255,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/ctzsnooze_race.txt",
-      "hash": "741e70595d59bc32ecbe993108281d8ba797e5d5b6298901b9edd42af09da6a3",
+      "hash": "ea30ad86e7f69464ec4705987c5d2ee46a7779ea0530efd1815d43dd695b2452",
       "title": "race rates by ctzsnooze",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
@@ -1266,11 +1272,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/defaults.txt",
-      "hash": "3eb0eebc69558dcb5de2e985850026a0ca4b0634601f4b66c0f4ea36b2e17f91",
+      "hash": "b5ca502f48325e26d254127b4bc431415d127092910ac6053b00087ef5000ade",
       "title": "Default rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
@@ -1284,11 +1291,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Directory_freestyle.txt",
-      "hash": "72c18b285ba36e861699d463b1270f13ada5da860588cbed4af6cecad240e256",
+      "hash": "b28e7534dfce8e48edb00cf64f8738bab34140574d4d0c4a7dbb57af6d2a3983",
       "title": "Directory freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1300,11 +1308,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Feisar_freestyle.txt",
-      "hash": "64d78d3cdcae6a8feb88d6059ebc07ce1e7581b0de7251e2d08c16ec846932bf",
+      "hash": "db928d717ac972c5a934d94cefde6385d289498d830149258290ad21183aed4a",
       "title": "Feisar freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1318,11 +1327,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Garban_race.txt",
-      "hash": "f4f6c7ff6e7230f40aee6fe1d153d723ffadfd629d62c1d77408607efcda1a27",
+      "hash": "790aff6447c3b73afa3998413c407f303fc0e04e45449f54987104f28d0fafb4",
       "title": "Garban Official race rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1361,11 +1371,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/illusionfpv_freestyle.txt",
-      "hash": "250f62e33e80db6375f2763de4f5bf9e3a362c4697d279cd73b1866d28c9b1cd",
+      "hash": "78018d0bf3f590196a091954db05fa11fbb6078d4f3c059263b2cf631e620441",
       "title": "freestyle rates by IllusionFpv",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
@@ -1380,11 +1391,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/limon.txt",
-      "hash": "dc1c394b8e78eb836ac734dacfc22a7427355bc3bf5c69a00365b2bf85b9f441",
+      "hash": "cb90500f13b9fe6f60699a42f52cc4d1961d7463c550f54f6377cf1255e8b8d4",
       "title": "Limon racing rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
@@ -1402,11 +1414,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/MinChan.txt",
-      "hash": "499fbef88e9ff121ba20ab3656654cfc55367c7d6ae8899067a9f33da5d015ea",
+      "hash": "6b15f060d7b86f40a1a7f98bb002388ff6b0d0ea606d6eed9ae4a07a43607d18",
       "title": "MinChan Kim racing rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1421,11 +1434,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/mouseFreestyle.txt",
-      "hash": "4bd3216213c976136024a2ec4cb3611966032bd6cd5873744d23b2551a2bdf09",
+      "hash": "3b3e1e0c76ca4e99057bf76e2da372c9dd6a78a0b63b9035ec3091cfae902523",
       "title": "mouseFPV Freestyle Rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1463,11 +1477,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/StingersSwarm.txt",
-      "hash": "e2456a32a7a47d63f9d737fdb100dc2ee28a472ab508325d0334195d6c854ade",
+      "hash": "9f120800b9c857dd3b9768e8aea11e13e8bae7755c5beb1bec0eee26c805c59c",
       "title": "Stingers Swarm freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1481,11 +1496,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/SugarK.txt",
-      "hash": "a5a4175752f45771b3b7f59730ae9cc5580a00624cd9776610d2cabd237aed86",
+      "hash": "cbde746d04bcf903b13b9e20f3f195feba08a8a641df550c6b4ace1551b687e4",
       "title": "Sugar k rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
@@ -1501,11 +1517,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/UAV_tech.txt",
-      "hash": "8284063db148240f3956e840c85ae4d22de25679c9705992de3f0f1b29dc7708",
+      "hash": "0747e063c44df8947de9c9134928348efad899e76006ae3f7106286e54d4cd40",
       "title": "UAV Tech Rates (w/ Cinematic/Whoop Options)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1520,11 +1537,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Vanover.txt",
-      "hash": "9b7ab14cbaaf766e3c76b2b60d042e927bdf3400e83f59554a2225ba8c2f8867",
+      "hash": "e4a5fd2cb9b6ac42511606a1e87340ab01d6d1dd78933bc1a96965e5c1188f26",
       "title": "Vanover racing/freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1541,10 +1559,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
-      "hash": "dd9a493fb69537b8b495fbfa6f39477d69dba0c2538a2f2de68aa5a469616f05",
+      "hash": "4b040f24c3f3ead0edae874314c02f1ad3030176876c3089c8c089f5e361eb41",
       "title": "Reset RC related settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1563,11 +1583,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
-      "hash": "cb13a7911b75e12843b47aba4a0e8541d4ea40ee867e08cd0c4399120370f517",
+      "hash": "d261a9fa2f3dc3a14e94db3dd30d1f4fc9e3fbdab3fd78e19c7c1eedb0521c41",
       "title": "DJI Normal",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1583,11 +1604,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/DJI_SBUS_Fast.txt",
-      "hash": "0939d74e9be57494ce29fcafbc7577c941f5cfbf34e4655f144063316d409e02",
+      "hash": "b75f760e56474290beb0f9502305d56358f71d5c2832cb86c7e29ff576662be4",
       "title": "DJI SBUS FAST",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1603,11 +1625,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_150hz.txt",
-      "hash": "5aaa44c727f95f4d5ab31ad1374cd882cfef365c7ed83d2fc88d2c3fc8ad8b8e",
+      "hash": "6dd1ff263d73d873e6522488bfdf9c6ee59db638c391bb855ea4c7abee09d254",
       "title": "ExpressLRS 150Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1626,11 +1649,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_250hz.txt",
-      "hash": "459d815401af6a39e9536568564bb2fd8745f6d6b57a9abda8937e6f7409903f",
+      "hash": "11feaf5c5defdf532c33babcefb569ee12fb0588eaf94afd6eadb57e0683aa24",
       "title": "ExpressLRS 250Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1649,11 +1673,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_500hz.txt",
-      "hash": "9dfd1c1ab41dfd6a741867188d3fe66ac32873c60e0605b5f36066360e732fcf",
+      "hash": "49b8461f4bfe6e593ff987b35bedaac2124d9e2c3e896af50054e851cda1a1eb",
       "title": "ExpressLRS 500Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1672,11 +1697,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_50hz.txt",
-      "hash": "02c473aa2d528c195cf2bd0a99aae1b90259a735a7f077328d07cf1c628bc153",
+      "hash": "4faff8ac9785b00aff84e9d4c4f84deedebd65f918dcc05c29034bdc1f206eba",
       "title": "ExpressLRS 50Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1696,11 +1722,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/frsky_sbus_fport.txt",
-      "hash": "14a2f0528c1916e45526527f90d2067e1e77f91a3397cb7c20dac2e17d92a1b3",
+      "hash": "38fa39e47349098296f9cc051dd93ab320d29fb776490e714fd94952324c3a70",
       "title": "FrSky Sbus or FPort",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1720,11 +1747,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/1000hz_race.txt",
-      "hash": "fbfada94dd59cb0581bd7725a9bf497175e03cbe5fcc504f88ae4870874ec740",
+      "hash": "62fb692e29f5613e66509b0f7e1606c34323fd9b5f6a9ab9267c38bd3d879c32",
       "title": "Generic 1000z Race",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1742,11 +1770,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/150hz_cinematic.txt",
-      "hash": "41528f843b18cecfd7676f313850c7cefbbfde6933db7fdfd53e2132c975c563",
+      "hash": "682d89b234fd030dbbfccce952939b777b4a7e7915abd5da68da09a72fc8f1d8",
       "title": "Generic 150Hz Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1762,11 +1791,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/150hz_freestyle.txt",
-      "hash": "7c9ea82aaec95ef6a4b51b92807c0f272922246a18085d37d8ffda621bc0079e",
+      "hash": "993b654a55ad2c7888642c6619fb10ab39f2f9b7f053a5817e0edbf81dfff570",
       "title": "Generic 150Hz Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1782,11 +1812,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/150hz_hd_freestyle.txt",
-      "hash": "42635c2d72764cccc694c899322a800eb67d1e2aed851f6ffd6c544e86e1613d",
+      "hash": "ea36ae7ab9f262f21d8ee52871a780dbd52e9390c1f3ef06f77b632298979d93",
       "title": "Generic 150Hz HD Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1802,11 +1833,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/150hz_race.txt",
-      "hash": "bb1fd588855ead67cd4aa819af2fa669f64c0fe47907c97fc9790cd07bd59291",
+      "hash": "0f49abead97c8f97b2d44628b797d2cf7c4dcc0c360068c2d2b7d08637454c4d",
       "title": "Generic 150Hz Race",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1822,11 +1854,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/150hz_ultra_cinematic.txt",
-      "hash": "b55b2e9c449a610de26c553629661a17f1dc09fd558989313b1e9bd598fb193d",
+      "hash": "fd800c639f78d801ab161b474e8b180aa046a425112898c0ab6e08a22d8ab3b9",
       "title": "Generic 150Hz Ultra Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1842,11 +1875,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_cinematic.txt",
-      "hash": "8fb32262addb86b065aaf58c39f2b10bd23de992d53783ed0efffd2e9fcb1450",
+      "hash": "2deba1b5fb9c14e99378bb2f735f0f409f369f03c3127abc87ff80d0d7e4d3ab",
       "title": "Generic 250Hz Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1862,11 +1896,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_freestyle.txt",
-      "hash": "0397808f17324f9b47508638f437100f4366e5cfaa2555410cd2029ebedb0fc1",
+      "hash": "b51b813d91291ee3fa902a803449d1ab3cfb794d815c4e94fede92b9c927eeda",
       "title": "Generic 250Hz Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1882,11 +1917,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_hd_freestyle.txt",
-      "hash": "44d991d2e09f22a7242db95c4fd34917c9497e6542242f3d1c8b54c4a1f5059a",
+      "hash": "5024bb70e38a11b071fad8c2642c89f66321f8cc3597b91700e9b21ed9cd3690",
       "title": "Generic 250Hz HD Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1902,11 +1938,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_race.txt",
-      "hash": "836357a4504fe73e81b9c6a889ed185a5e6eacce5e0fcc318611ec290a3eeb40",
+      "hash": "9e68f8fd2b483ace1e7c81ae43dc95a959198ffc0adda3dd54a8bf13fbe97f7b",
       "title": "Generic 250Hz Race",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1922,11 +1959,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_ultra_cinematic.txt",
-      "hash": "ac4d82c012bb7d380c98222a4d9ff54962de7a87f86ed1e45ab04f4aa29dd01f",
+      "hash": "f46e8efbd5fc2ee9a31db1756ba2f7149264fbfdd73da09e3341e13cf88e95ae",
       "title": "Generic 250Hz Ultra Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1942,11 +1980,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_cinematic.txt",
-      "hash": "b1d91f81c5575343024b264f4ad00ab422a4a551da5c056afc6b7ce7657bdb8c",
+      "hash": "e70fcea6ef349854e69a6cc17feec5a06546f68b0ac83c7cc6ee4522349068a3",
       "title": "Generic 500Hz Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1963,11 +2002,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_freestyle.txt",
-      "hash": "01bb65fdfece19eed6088403785f016d2b5eb1a9a89306f4e49a34814355ef61",
+      "hash": "627719a39bac0e6eccebd9240637c7be1f2230d9cd4a52b3a58cd69a4df2597a",
       "title": "Generic 500Hz Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1984,11 +2024,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_hd_freestyle.txt",
-      "hash": "dff6ad4296d2e42feba4248f8976193d11cf64b1b430cf8b985a6cfaa935d785",
+      "hash": "856fcb22bd9d50a1774ea1ebf4f4bf623979ca65fb835901fb3015a828bb917d",
       "title": "Generic 500Hz HD Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2005,11 +2046,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_race.txt",
-      "hash": "56219dda77c4aa2f1c4d5f0030a74c67d5da73695e3402ff0c2ab7217fce24c2",
+      "hash": "3a4c0b7a50c7bf0356bc297c93ec6625d21da9539188349e9ec52ab3f2841993",
       "title": "Generic 500Hz Race",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2026,11 +2068,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_ultra_cinematic.txt",
-      "hash": "935cc96dc131770c6770b7a31667daca5e7751283a7413dad497cb26897045ab",
+      "hash": "c48624fe3a5ff2e14937c5a9bf53ec1108866303d3f35ac32f2fa5478ca9a765",
       "title": "Generic 500Hz Ultra Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2047,11 +2090,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_cinematic.txt",
-      "hash": "31a068b280ab0beddc038c499ad1c1701185dcacd12f4e24a6ca1c1a1b41b3ac",
+      "hash": "e2cd379e3df5a1b9aa7467cf1df8180aabffe8be24d6bf5bd8d787cd34a81583",
       "title": "Generic 50Hz Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2068,11 +2112,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_freestyle.txt",
-      "hash": "15c47f7ce0b9129e8d2758ced1736c1ecfc6d225e305ef937ea20efea0f4358f",
+      "hash": "1cf11bfb895e18f0bf7e3947d5aaaa8e28b074d1c71b9bd46e3989b155752d92",
       "title": "Generic 50Hz Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2089,11 +2134,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_hd_freestyle.txt",
-      "hash": "08c6f1d9f4b45c9d5abd5bfc6c12cc8b458c67355aa96c386316c5d6065c97ad",
+      "hash": "ea64e85913b4e18fe395c9efcaa5ed5555f55bac6d175c08c6672f8a4a5e84f8",
       "title": "Generic 50Hz HD Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2110,11 +2156,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_race.txt",
-      "hash": "8c03a9dee35a95031abc9bd884c1d37c870d28ea733cb2f7735f4538e6bbcf07",
+      "hash": "a2f6431f9c11ef8e635e8e23d5acfc5f40f9ba282894f8d80e36fa8fe92acf62",
       "title": "Generic 50Hz Race",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2131,11 +2178,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_ultra_cinematic.txt",
-      "hash": "4df997249c48be3878a4c8030b7e47668cddaf74c2619ff84001d7d09c6ddcc3",
+      "hash": "90d8c30816f209531c602f261f12d964cd4befd1ab9c48739d4184ea4dbe972c",
       "title": "Generic 50Hz Ultra Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2152,11 +2200,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/long_range.txt",
-      "hash": "d91208028b683edc8a6f0c6d8782791e99fe20094f9d51eeb5fd79b4112f5feb",
+      "hash": "a7a50f51831d6fa70b3f9e391faee51501e1d15c44b572fce614e866d42d764c",
       "title": "IRC Ghost (Long Range)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2178,11 +2227,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/normal.txt",
-      "hash": "942ac260c98fe68bcf99afd5d06e0b1c7dbff2a8decc06886e4bd99e0d1ebd73",
+      "hash": "cd7b09e86e72dbbfe3406442bc1338c3ae24626346a485d46468e67161c37e33",
       "title": "IRC Ghost (Mode: Normal)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2205,11 +2255,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/pure_race.txt",
-      "hash": "2753b7b17816b61c78e103a6f195cc7552f236a974d87b203578d8a02590f82a",
+      "hash": "848c8d97edc501ff7945200654cb8e4a7b120cba93cea921463235a659e05720",
       "title": "IRC Ghost (Pure Race)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2232,11 +2283,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/race.txt",
-      "hash": "fa9da1b07aaf305c77bece5ae2172cbcda3f5942c520dd37aecae9c60ddb0f03",
+      "hash": "64ef214f0a461ea8155f01cf40f0b0b21e1ecb359eb183cf0dab626a3869ff85",
       "title": "IRC Ghost (Mode: Race)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2259,11 +2311,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/race250.txt",
-      "hash": "80292f2f0d5252fad215e0bd31139974c702c1054330a7248ded5d7ba96309a3",
+      "hash": "37ffb68e90dbe86cf76b9ab6194f108c6d4de88e3532e8f76f54f1f7d2ef21d0",
       "title": "IRC Ghost (Race250)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2286,11 +2339,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/race500.txt",
-      "hash": "d9d89cf88e744008f590f7fc128257a43f8c4e83a7feeadcf392f465646c10c1",
+      "hash": "b7695ba22b473d00b4fe2536fd8b9b069277cd9066f512e35bf5293d093325d4",
       "title": "IRC Ghost (Race500)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2313,11 +2367,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/solid250.txt",
-      "hash": "447b9ec20d3420938629d9c4933682aab5c9ac9bf3294f38e1814c4b0c20861a",
+      "hash": "5e5203617a2e44400110f33381a2334e309dfe6f3a7de564fd6f59eb9afc7bba",
       "title": "IRC Ghost (Solid250)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2340,11 +2395,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/redpine_666hz.txt",
-      "hash": "c55664addd75a71a409eb05c6bf91fbe65c84470b3abe93ffd1e2e5e48e2a70d",
+      "hash": "c48757a0ee5fe1761f028b1c9e7e7307da96682d234aaaf776977d681bf34a76",
       "title": "Redpine 666Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2360,11 +2416,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/redpine_mpm.txt",
-      "hash": "3289f2c04811e109022a671168b85cab1a884f5a22690678a41f819b33ad424e",
+      "hash": "287f6ad909042365ac8de7565d952bf5cb7b037b7698b33a3432b18a514612a0",
       "title": "Redpine MPM",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2398,11 +2455,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/tbs/crossfire_150hz.txt",
-      "hash": "e456a2010e44fdb60451376a459161753abb53b4786e138528e0e31434aed27e",
+      "hash": "64b8c65529f46343c1458d8d0b63137e37f0a76b1debe70e356363722f7afd66",
       "title": "TBS Crossfire 150Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2422,11 +2480,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/tbs/crossfire_50hz.txt",
-      "hash": "50728820731cad1e79c60d95190d5071947dcc924a5b2c7bafcf79edaa232cd7",
+      "hash": "26471c399eb2f1a977a89e4a2363770ac209a9b20878b63a41214c3fbd4f1f9e",
       "title": "TBS Crossfire 50Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2446,11 +2505,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/tbs/tracer_250hz.txt",
-      "hash": "ec12554f667716724d84f93d03e65fec34925153a23c9d7ef74bba26e10fa19c",
+      "hash": "7b1390172978234cf351edcf49b03903962d893c3a85a536cf304309cda6ff64",
       "title": "TBS Tracer 250Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -3162,10 +3222,12 @@
     },
     {
       "fullPath": "presets/4.3/vtx/defaults.txt",
-      "hash": "f771542d93f15f993d39d97f9004ede104ba7dfebff45f68863aa25f30275388",
+      "hash": "d8bb4a7a15e3059ecd843607204ba9d1833c989044a175fe357d94d99417abb8",
       "title": "Default 4.3 VTX settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "OFFICIAL",
