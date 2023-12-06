@@ -179,12 +179,14 @@
       "MrAlucardDante",
       "Neil Marek (Grower)",
       "NemesisXB",
+      "Sartor",
       "Sjoer van der Ploeg",
       "Stingers Swarm",
       "Sugar K",
       "sugarK",
       "SupaflyFPV",
-      "UAV Tech (Mark Spatz)"
+      "UAV Tech (Mark Spatz)",
+      "ZoeFPV"
     ],
     "keywords": [
       "\\\\GAS",
@@ -206,6 +208,7 @@
       "3 Inch",
       "3.5in",
       "3\"",
+      "3d",
       "3in",
       "3S",
       "4 inch",
@@ -241,6 +244,7 @@
       "actual",
       "adjustments",
       "air unit",
+      "akk",
       "AlexFPV",
       "analog",
       "AOS",
@@ -266,6 +270,7 @@
       "cinewhoop",
       "clean",
       "clear",
+      "colour change",
       "Configure",
       "control",
       "Crossfire",
@@ -282,6 +287,7 @@
       "displayport",
       "divimath",
       "DJI",
+      "dominator",
       "DShot telemetry",
       "eachine",
       "ELRS",
@@ -308,11 +314,14 @@
       "freesytle",
       "freetyle",
       "frsky",
+      "fx2",
       "Garban",
+      "geprc",
       "ghost",
       "GHST",
       "GoPro",
       "GPS",
+      "GPS_Rescue",
       "GTB339",
       "gyroflow",
       "HD",
@@ -326,6 +335,8 @@
       "immersionRC",
       "IRC",
       "IRC Tramp",
+      "jhemcu",
+      "juicy",
       "justice",
       "karate",
       "KarateBrot",
@@ -367,6 +378,8 @@
       "OpenRacer",
       "OpenVTx",
       "OSD",
+      "panda",
+      "pandarc",
       "partial",
       "Passthrough",
       "pid",
@@ -383,6 +396,7 @@
       "Race250",
       "Race500",
       "racing",
+      "rad",
       "rates",
       "RC",
       "rc link",
@@ -404,6 +418,7 @@
       "sa2.0",
       "sa20",
       "Safe",
+      "sbang",
       "sbus",
       "SBUS fast",
       "shames",
@@ -455,6 +470,7 @@
       "ultralite",
       "unify",
       "unify pro",
+      "upside down",
       "utility",
       "vanover",
       "very",
@@ -464,6 +480,8 @@
       "viper lite",
       "vista",
       "Voltage",
+      "vt5804",
+      "vt5804bat",
       "vtx",
       "vtx table",
       "vtxtable",
@@ -473,7 +491,9 @@
       "whooptopia",
       "world champion",
       "wtfos",
-      "youtube"
+      "youtube",
+      "zoe",
+      "zoeFPV"
     ]
   },
   "presets": [
@@ -826,13 +846,15 @@
     },
     {
       "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
-      "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",
+      "hash": "023f82170f166337daf3ba4b5e87c8fd71a611880e289bcf791c4a036ba8336f",
       "title": "UAV Tech - Analog",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "OSD",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "analog"
       ],
@@ -841,13 +863,15 @@
     },
     {
       "fullPath": "presets/4.3/osd/UAV_tech_DJI.txt",
-      "hash": "bc8e6e7c6811e7dc0c3dce503795e6ac263471b78de444c56c9bdb6dfc1c1821",
+      "hash": "a03355bd8a7debf8d543d0f37d2276c4babde937c4d79fa9b1fcbca1ad6ec313",
       "title": "UAV Tech - DJI",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "OSD",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "DJI"
       ],
@@ -856,13 +880,15 @@
     },
     {
       "fullPath": "presets/4.3/osd/UAV_tech_DJI_GPS.txt",
-      "hash": "71aa3f012c239248629894e48e5ce5d7e83fc4c4b3e6e166d835a73b8e8588e7",
+      "hash": "096fddf47bf877aec251823b5a97dd81a261fbad89f50e19ecfcda1cdb4e8382",
       "title": "UAV Tech - DJI with GPS",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "OSD",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "DJI",
         "GPS"
@@ -1517,7 +1543,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/UAV_tech.txt",
-      "hash": "0747e063c44df8947de9c9134928348efad899e76006ae3f7106286e54d4cd40",
+      "hash": "8f400aca920265d3f11a105e8ff18c8c5292f0d586bc967d58f8985ee71f3f8c",
       "title": "UAV Tech Rates (w/ Cinematic/Whoop Options)",
       "firmware_version": [
         "4.3",
@@ -1525,7 +1551,7 @@
         "4.5"
       ],
       "category": "RATES",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "whoop",
         "freetyle",
@@ -3200,6 +3226,29 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.3/vtx/AKK_FX2_Dominator_2W.txt",
+      "hash": "668b8c5df4c2a57411c2d854f23536f165fde2a43f103da65fc4cc2ce06af4c5",
+      "title": "AKK FX2-Dominator VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "akk",
+        "dominator",
+        "fx2"
+      ],
+      "author": "Sartor",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/Avatar_HD.txt",
       "hash": "9f8ff52bf17a04377528e7b00c50a7aff735ef1d171d31233890f927e1708d48",
       "title": "Avatar HD VTXs",
@@ -3402,6 +3451,28 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/GepRC_RAD_2W5.txt",
+      "hash": "b1a6a50293fc783923d23ff80be2ae4b1b88c52a34e8a14daee1fbae343e944e",
+      "title": "GEPRC RAD 5.8G 2.5W VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "geprc",
+        "rad"
+      ],
+      "author": "Sartor",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/HDZero.txt",
       "hash": "37a652666691aecde28cdabf472678cc91e24845ed56a47a082608b878d49b0c",
       "title": "HDZero VTXs",
@@ -3428,6 +3499,27 @@
       ],
       "author": "sugarK",
       "force_options_review": true,
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/JHEMCU_2W5.txt",
+      "hash": "be370374c3169f03695a868f7c008c969d9d7c1bdfd13333544cbf4c3fd9e54b",
+      "title": "JHEMCU 5.8G 2.5W VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "jhemcu"
+      ],
+      "author": "Sartor",
       "priority": 1000000
     },
     {
@@ -3476,6 +3568,30 @@
       ],
       "author": "Jye Smith",
       "force_options_review": true,
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/PandaRC_VT5804_BAT_2W5.txt",
+      "hash": "5e6fc8b65b8e595a86de5d12e227252848e2c6d1281de6aad2aa852affc3ed00",
+      "title": "PandaRc VT5804 BAT VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "panda",
+        "pandarc",
+        "vt5804",
+        "vt5804bat"
+      ],
+      "author": "Sartor",
       "priority": 1000000
     },
     {
@@ -3714,7 +3830,7 @@
     },
     {
       "fullPath": "presets/4.4/leds/quaddiction_tinytrainer.txt",
-      "hash": "2b2bede40d142402b6c9c3b0bdeb996c0b2215761aab4e787eee8188118521b7",
+      "hash": "3446d7aa09e8a7febe459c46160efb5aadf64a44ddf022f79156b76919edef8a",
       "title": "Quaddiction TinyTrainer LED settings",
       "firmware_version": [
         "4.4"
@@ -3783,6 +3899,94 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/leds/LED VTX  race mode.txt",
+      "hash": "9f7ff587ab9bb60c8902dfdd14a4b3477cf3d3605a3eccdc771ed8bfd4a1ebee",
+      "title": "RACE mode LED settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "LEDS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "leds",
+        "race",
+        "vtx",
+        "colour change",
+        "sugarK",
+        "spec",
+        "spec racing",
+        "tinytrainer"
+      ],
+      "author": "sugarK",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/leds/quaddiction_tinytrainer.txt",
+      "hash": "0c2ce894b2e4c7ab236cd45a39e2a6043592931cf985db7fc48cc0f0ecd30813",
+      "title": "Quaddiction TinyTrainer LED settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "LEDS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "leds",
+        "533",
+        "five33",
+        "quaddiction",
+        "sugarK",
+        "spec",
+        "spec racing",
+        "tinytrainer",
+        "tiny"
+      ],
+      "author": "sugarK",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_gps.txt",
+      "hash": "e02daf2076331cda4141148d2cd029fed1c60803b07a4216d0e455e27a4b676a",
+      "title": "Reset GPS to 4.5 default settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "GPS",
+        "GPS_Rescue"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/rates/ZoeFPV_3D_rates.txt",
+      "hash": "0e6a717400f59ff9e6e94f7738235b75d5158d1171ea53556ac114d76f63c3f3",
+      "title": "ZoeFPV 3D Rate Bomb",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates",
+        "freestyle",
+        "juicy",
+        "sbang",
+        "zoeFPV",
+        "zoe",
+        "3d",
+        "upside down",
+        "sugarK"
+      ],
+      "author": "ZoeFPV",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.5/tune/defaults.txt",
