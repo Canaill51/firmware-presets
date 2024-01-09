@@ -1,5 +1,7 @@
 #$ TITLE: Cedric 4.4 OSD settings
+#$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: OSD
@@ -7,15 +9,8 @@
 
 set osd_vbat_pos = 2684
 set osd_rssi_pos = 397
-set osd_link_quality_pos = 2642
-set osd_rssi_dbm_pos = 2676
-set osd_tim_2_pos = 403
-set osd_throttle_pos = 392
-set osd_mah_drawn_pos = 403
-set osd_craft_name_pos = 2055
-set osd_warnings_pos = 14713
+set osd_link_quality_pos = 2644
+set osd_rssi_dbm_pos = 2677
+set osd_craft_name_pos = 2072
+set osd_warnings_pos = 14679
 set osd_avg_cell_voltage_pos = 2652
-set osd_displayport_device = MSP
-set osd_canvas_width = 60
-set osd_canvas_height = 22
-set vcd_video_system = HD
