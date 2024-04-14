@@ -151,39 +151,28 @@
       "VTX"
     ],
     "author": [
-      "Alex Campbell (Chief)",
-      "Alex Vanover",
       "benlumley",
       "Betaflight",
-      "BMSThomas",
       "Cedric",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "Directory",
-      "Evan Turner (Headsup)",
-      "Feisar",
       "Foxeer Harvey",
       "Garban",
-      "IllusionFpv",
       "Ivan Efimov (Limon)",
       "jappyjan",
-      "Joshua Bardwell",
       "Jye Smith",
       "KMfpv",
-      "MinChan Kim",
-      "mouseFPV",
       "MrAlucardDante",
-      "Neil Marek (Grower)",
       "NemesisXB",
       "Sartor",
       "Sjoer van der Ploeg",
-      "Stingers Swarm",
       "Sugar K",
       "sugarK",
-      "UAV Tech (Mark Spatz)"
+      "UAV Tech (Mark Spatz)",
+      "Utka v tapkah"
     ],
     "keywords": [
-      "\\\\GAS",
       "03",
       "1000Hz",
       "111hz",
@@ -197,13 +186,13 @@
       "250Hz",
       "2ms",
       "2S",
+      "3d",
       "3S",
       "5\"",
       "500Hz",
       "50Hz",
       "533",
       "55Hz",
-      "633",
       "666Hz",
       "9ms",
       "Acrobaix",
@@ -211,21 +200,15 @@
       "adjustments",
       "air unit",
       "akk",
-      "AlexFPV",
       "analog",
       "Audio TBS",
       "aux",
       "Avatar",
-      "bardwell",
       "basic",
       "betaflight",
       "blackbox",
-      "BMSThomas",
       "camera",
       "camera_control",
-      "Cgo",
-      "Chief",
-      "cinematic",
       "clean",
       "clear",
       "colour change",
@@ -253,7 +236,6 @@
       "expert",
       "express",
       "Extreme",
-      "feisar",
       "filter",
       "filtering",
       "filters",
@@ -264,7 +246,6 @@
       "FreedomSpec",
       "freestyle",
       "freesytle",
-      "freetyle",
       "frsky",
       "fx2",
       "Garban",
@@ -278,11 +259,9 @@
       "HD",
       "HD video",
       "HDzero",
-      "Headsup",
       "HighKV",
       "hot",
       "HV",
-      "IllusionFpv",
       "immersion",
       "immersionRC",
       "IRC",
@@ -293,35 +272,26 @@
       "launch",
       "launch_mode",
       "leds",
-      "Limon",
       "link",
       "Llama",
       "log",
       "logging",
       "Long Range",
       "mamba",
-      "Marek",
-      "MinChan",
       "mode",
       "modes",
-      "mr nice",
-      "mrnice",
       "msp",
       "msp-osd",
       "Multi",
-      "MultiGP",
       "MultiVoltage",
       "names",
       "nano",
       "nanohawk",
-      "Neil",
-      "nice",
       "no rpm",
       "noisy",
       "normal",
       "O3",
       "O3 air unit",
-      "OpenRacer",
       "OpenVTx",
       "OSD",
       "panda",
@@ -333,14 +303,11 @@
       "profile",
       "Pure Race",
       "quaddiction",
-      "quick",
       "race",
-      "race rates ctzsnooze actual",
       "race v1",
       "race v2",
       "Race250",
       "Race500",
-      "racing",
       "rad",
       "rates",
       "RC",
@@ -354,7 +321,6 @@
       "rush",
       "rush tank",
       "rushfpv",
-      "russia",
       "Rx",
       "sa",
       "SA 2.0",
@@ -365,7 +331,6 @@
       "Safe",
       "sbus",
       "SBUS fast",
-      "shitpilot",
       "Smart",
       "smart audio",
       "smartaudio",
@@ -376,9 +341,7 @@
       "spec racing",
       "speedybee",
       "stats",
-      "StingersSwarm",
       "suagrK",
-      "sugar k",
       "sugarK",
       "switch",
       "SWPR",
@@ -402,8 +365,8 @@
       "ultra 1000",
       "unify",
       "unify pro",
+      "upside down",
       "utility",
-      "vanover",
       "very",
       "very clean",
       "very noisy",
@@ -417,8 +380,7 @@
       "Walksnail",
       "whoop",
       "whoop lite",
-      "wtfos",
-      "youtube"
+      "wtfos"
     ]
   },
   "presets": [
@@ -1100,127 +1062,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/rates/533.txt",
-      "hash": "e92d66aba44c7137dd58a8a300db4aa78ffeeaab900a577b8a0523e4045d059c",
-      "title": "533 racing rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "Headsup",
-        "533",
-        "five33",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "Evan Turner (Headsup)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Bardwell.txt",
-      "hash": "e6b2324edc8d7b670e4b36c77f9f95f81ca1b73284c8a226542da33e83db84ec",
-      "title": "Joshua Bardwell rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "youtube",
-        "bardwell",
-        "freestyle"
-      ],
-      "author": "Joshua Bardwell",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/BMSThomas.txt",
-      "hash": "5c293a69b25d62dfc615d8f773883f644b2e473def874b79a7aab506499dbc19",
-      "title": "BMSThomas racing/freestyle rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "BMSThomas",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "BMSThomas",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/CGo.txt",
-      "hash": "2191ad344bfdd62e62995077238163bfcd38ad1eb1390c4fbdbb48ffb92c478c",
-      "title": "CGo race rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "rates",
-        "MultiGP",
-        "quaddiction",
-        "Cgo"
-      ],
-      "author": "sugarK",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Chief.txt",
-      "hash": "75f5e1166714f90eb8fdff13a2e0ff05933aebcc6014822774c3cc5ae498f537",
-      "title": "Chief race/freestyle rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "race",
-        "Chief",
-        "AlexFPV",
-        "racing",
-        "\\\\GAS",
-        "freestyle"
-      ],
-      "author": "Alex Campbell (Chief)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/ctzsnooze_race.txt",
-      "hash": "ea30ad86e7f69464ec4705987c5d2ee46a7779ea0530efd1815d43dd695b2452",
-      "title": "race rates by ctzsnooze",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race rates ctzsnooze actual"
-      ],
-      "author": "ctzsnooze",
-      "priority": 10000
-    },
-    {
       "fullPath": "presets/4.3/rates/defaults.txt",
       "hash": "b5ca502f48325e26d254127b4bc431415d127092910ac6053b00087ef5000ade",
       "title": "Default rates",
@@ -1238,274 +1079,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/Directory_freestyle.txt",
-      "hash": "b28e7534dfce8e48edb00cf64f8738bab34140574d4d0c4a7dbb57af6d2a3983",
-      "title": "Directory freestyle rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "freestyle"
-      ],
-      "author": "Directory",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Feisar_freestyle.txt",
-      "hash": "db928d717ac972c5a934d94cefde6385d289498d830149258290ad21183aed4a",
-      "title": "Feisar freestyle rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "rates",
-        "betaflight",
-        "feisar"
-      ],
-      "author": "Feisar",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Garban_race.txt",
-      "hash": "790aff6447c3b73afa3998413c407f303fc0e04e45449f54987104f28d0fafb4",
-      "title": "Garban Official race rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "rates",
-        "DDC",
-        "Acrobaix",
-        "Garban"
-      ],
-      "author": "Garban",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Headsup.txt",
-      "hash": "01dae2ccd90e9d3568ce7b762dc768a0f4b79189e2e2ad064d76bb76a6bccb58",
-      "title": "Headsup racing rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "Headsup",
-        "533",
-        "633",
-        "five33",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "Evan Turner (Headsup)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/illusionfpv_freestyle.txt",
-      "hash": "78018d0bf3f590196a091954db05fa11fbb6078d4f3c059263b2cf631e620441",
-      "title": "freestyle rates by IllusionFpv",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "freestyle",
-        "rates",
-        "IllusionFpv",
-        "quick"
-      ],
-      "author": "IllusionFpv",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/limon.txt",
-      "hash": "cb90500f13b9fe6f60699a42f52cc4d1961d7463c550f54f6377cf1255e8b8d4",
-      "title": "Limon racing rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "racing",
-        "Limon",
-        "OpenRacer",
-        "texas",
-        "russia",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/MinChan.txt",
-      "hash": "6b15f060d7b86f40a1a7f98bb002388ff6b0d0ea606d6eed9ae4a07a43607d18",
-      "title": "MinChan Kim racing rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "race",
-        "MinChan",
-        "rates"
-      ],
-      "author": "MinChan Kim",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/mouseFreestyle.txt",
-      "hash": "3b3e1e0c76ca4e99057bf76e2da372c9dd6a78a0b63b9035ec3091cfae902523",
-      "title": "mouseFPV Freestyle Rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "freestyle"
-      ],
-      "author": "mouseFPV",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Nice.txt",
-      "hash": "57b63aba69df351213cf628fc6d7b4a4d19ba85fa03bef2adabfff72d3f77503",
-      "title": "Rates by picky Mr Nice (Grower)",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "nice",
-        "mr nice",
-        "mrnice",
-        "shitpilot",
-        "Neil",
-        "Marek",
-        "freestyle",
-        "cinematic",
-        "expert"
-      ],
-      "author": "Neil Marek (Grower)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/StingersSwarm.txt",
-      "hash": "9f120800b9c857dd3b9768e8aea11e13e8bae7755c5beb1bec0eee26c805c59c",
-      "title": "Stingers Swarm freestyle rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "youtube",
-        "StingersSwarm",
-        "freestyle"
-      ],
-      "author": "Stingers Swarm",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/SugarK.txt",
-      "hash": "cbde746d04bcf903b13b9e20f3f195feba08a8a641df550c6b4ace1551b687e4",
-      "title": "Sugar k rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "racing",
-        "rates",
-        "MultiGP",
-        "quaddiction",
-        "sugar k"
-      ],
-      "author": "sugarK",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/UAV_tech.txt",
-      "hash": "8f400aca920265d3f11a105e8ff18c8c5292f0d586bc967d58f8985ee71f3f8c",
-      "title": "UAV Tech Rates (w/ Cinematic/Whoop Options)",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "whoop",
-        "freetyle",
-        "cinematic",
-        "HD"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Vanover.txt",
-      "hash": "e4a5fd2cb9b6ac42511606a1e87340ab01d6d1dd78933bc1a96965e5c1188f26",
-      "title": "Vanover racing/freestyle rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "race",
-        "vanover",
-        "rates",
-        "MultiGP",
-        "freestyle"
-      ],
-      "author": "Alex Vanover",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
@@ -2831,6 +2404,27 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/JHEMCU_1W6.txt",
+      "hash": "ea840755a8651d4808e84cc8864db7f55c0808bcc2af30d11de8257b40293b9d",
+      "title": "JHEMCU RuiBet Tran-3016W VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "jhemcu"
+      ],
+      "author": "Utka v tapkah",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/JHEMCU_2W5.txt",
       "hash": "be370374c3169f03695a868f7c008c969d9d7c1bdfd13333544cbf4c3fd9e54b",
       "title": "JHEMCU 5.8G 2.5W VTX Table",
@@ -2849,6 +2443,27 @@
         "jhemcu"
       ],
       "author": "Sartor",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/JHEMCU_VTX30-800.txt",
+      "hash": "8deb1ba7f7a5243d5898baead0b1f02b48beef71e3303243395f251d2abba440",
+      "title": "JHEMCU VTX30-800 5.8GHZ 800MW VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "jhemcu"
+      ],
+      "author": "Utka v tapkah",
       "priority": 1000000
     },
     {
@@ -3611,6 +3226,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/other/reset_3d.txt",
+      "hash": "457090460225ee84ddb27a46e74530078f00741067dcf51fb5f3cec443b29d31",
+      "title": "Reset 3D settings to 4.5 default settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "3d",
+        "upside down"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/other/reset_gps.txt",
       "hash": "e02daf2076331cda4141148d2cd029fed1c60803b07a4216d0e455e27a4b676a",
       "title": "Reset GPS to 4.5 default settings",
@@ -3630,7 +3263,7 @@
     },
     {
       "fullPath": "presets/4.5/tune/defaults.txt",
-      "hash": "153b4882f95d865290627ef6fd5e2e12fa446d9244d222e770252da70e33a470",
+      "hash": "40d749b64f98141dea03e11b77976f0907a7e3b912c2e52c7395715eb570dfdd",
       "title": "Betaflight 4.5 TUNE defaults",
       "firmware_version": [
         "4.5"
