@@ -11,7 +11,6 @@
 
 #$ DESCRIPTION: Cedric
 #$ DESCRIPTION: -----------
-#$ WARNING: Rates will overwrite the currently selected rate profile 
 
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
