@@ -162,6 +162,8 @@
       "Garban",
       "Ivan Efimov (Limon)",
       "jappyjan",
+      "jawz101",
+      "JazzMutant",
       "Jye Smith",
       "KMfpv",
       "MrAlucardDante",
@@ -189,6 +191,8 @@
       "2S",
       "3d",
       "3S",
+      "5 In",
+      "5 Inch",
       "5\"",
       "500Hz",
       "50Hz",
@@ -270,6 +274,7 @@
       "immersionRC",
       "IRC",
       "IRC Tramp",
+      "JazzMutant",
       "jhemcu",
       "karate",
       "KarateBrot",
@@ -296,6 +301,7 @@
       "normal",
       "O3",
       "O3 air unit",
+      "openracer",
       "OpenVTx",
       "OSD",
       "panda",
@@ -2867,6 +2873,26 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/Tmotor_FT800.txt",
+      "hash": "820777009f8573b105bf5e300080e8044967ac2fe6ca03975009a4e4539c633d",
+      "title": "TMotor FT800 VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable"
+      ],
+      "author": "jawz101",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.4/leds/quaddiction_tinytrainer.txt",
       "hash": "3446d7aa09e8a7febe459c46160efb5aadf64a44ddf022f79156b76919edef8a",
       "title": "Quaddiction TinyTrainer LED settings",
@@ -3393,6 +3419,27 @@
         "filters"
       ],
       "author": "Betaflight",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.5/tune/openracer_jazzmutant_tune.txt",
+      "hash": "9e3e7717538165993ac88f5f82591a831cb9b6b1ac5014743ceb0704830684e5",
+      "title": "OpenRacer 5\" 6S by JazzMutant",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "openracer",
+        "race",
+        "5 Inch",
+        "5 In",
+        "5\"",
+        "JazzMutant"
+      ],
+      "author": "JazzMutant",
+      "force_options_review": true,
       "priority": 1000000000000
     }
   ]
