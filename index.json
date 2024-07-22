@@ -151,6 +151,7 @@
       "VTX"
     ],
     "author": [
+      "Armando Gallegos (Mondo)",
       "benlumley",
       "Betaflight",
       "Cedric",
@@ -196,6 +197,9 @@
       "533",
       "55Hz",
       "666Hz",
+      "6S",
+      "7 inch",
+      "7\"",
       "9ms",
       "Acrobaix",
       "actual",
@@ -283,11 +287,13 @@
       "logging",
       "Long Range",
       "mamba",
+      "MGP",
       "mode",
       "modes",
       "msp",
       "msp-osd",
       "Multi",
+      "MultiGP",
       "MultiVoltage",
       "names",
       "nano",
@@ -313,6 +319,7 @@
       "race v2",
       "Race250",
       "Race500",
+      "racing",
       "rad",
       "rates",
       "rc",
@@ -336,6 +343,8 @@
       "Safe",
       "sbus",
       "SBUS fast",
+      "Shames",
+      "Sharjah",
       "Smart",
       "smart audio",
       "smartaudio",
@@ -347,6 +356,7 @@
       "speedybee",
       "stats",
       "suagrK",
+      "sugar k",
       "sugarK",
       "switch",
       "SWPR",
@@ -368,6 +378,7 @@
       "tx1600",
       "tx5m.1",
       "tx800",
+      "tyrant",
       "ultra",
       "ultra 1000",
       "unify",
@@ -1086,6 +1097,28 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/SugarK.txt",
+      "hash": "ec1e237c4ab6b382554c03c18433195cc82fe0253ffa28a680b55ed25bdf85ab",
+      "title": "Sugar k rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "racing",
+        "rates",
+        "MultiGP",
+        "quaddiction",
+        "tyrant",
+        "sugar k"
+      ],
+      "author": "sugarK",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
@@ -2259,6 +2292,27 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/GepRC_PRO_5.8_2.5W.txt",
+      "hash": "26840349f30cab991a8dba795c370d9fe6fdb5009be927e5ecc93c7aedef93f9",
+      "title": "GEPRC MATEN 5.8G 2.5W VTX PRO Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "geprc"
+      ],
+      "author": "Utka v tapkah",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/GepRC_RAD_2W5.txt",
       "hash": "b1a6a50293fc783923d23ff80be2ae4b1b88c52a34e8a14daee1fbae343e944e",
       "title": "GEPRC RAD 5.8G 2.5W VTX Table",
@@ -2445,6 +2499,26 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/Tmotor_FT800.txt",
+      "hash": "75e11cc3c72e8170a68f5b14519b733e1e450914497b2f51471d5d146a683796",
+      "title": "TMotor FT800 VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable"
+      ],
+      "author": "jawz101",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/Unify_EVO_5G8_HV_SA.txt",
       "hash": "643028c250e8738a5f6a53eecc92d9fa66c3789dd9ec7cf4fdfd000f8c6d1caf",
       "title": "TBS Unify EVO 5G8 (HV) - SA 2.1",
@@ -2610,6 +2684,30 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/darwinfpv_vtx_25-200-400-600.txt",
+      "hash": "7c1d97eb07fb4369efd401bce32a30a1266fb8f8277af2a38a879648133e1e44",
+      "title": "DarwinFPV 25/200/400/600mW VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "darwin",
+        "darwinfpv",
+        "TinyApe",
+        "CineApe"
+      ],
+      "author": "Utka v tapkah",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/defaults.txt",
       "hash": "d8bb4a7a15e3059ecd843607204ba9d1833c989044a175fe357d94d99417abb8",
       "title": "Default 4.3 VTX settings",
@@ -2711,6 +2809,27 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/jhemcu_vtx20-600.txt",
+      "hash": "4aed08b7cc5f696d8a92f1406014930054b6a1d885227ebfc488533bb231666a",
+      "title": "JHEMCU VTX20-600 5.8GHZ VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "jhemcu"
+      ],
+      "author": "Utka v tapkah",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/rush_sa2.1_vtx_tables.txt",
       "hash": "a066dc246fb5a68e67059af0b5ea91158b59c5b234f196389859d8de672423f0",
       "title": "Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables",
@@ -2757,95 +2876,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.3/vtx/tramp_nano_and_HV.txt",
-      "hash": "64eb806abbaa6f5398595524be9d512a3ccf77679b930c06081532ee703c5e4b",
-      "title": "IRC Tramp Nano and HV",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "IRC",
-        "tramp",
-        "HV",
-        "nano"
-      ],
-      "author": "sugarK",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/GepRC_PRO_5.8_2.5W.txt",
-      "hash": "26840349f30cab991a8dba795c370d9fe6fdb5009be927e5ecc93c7aedef93f9",
-      "title": "GEPRC MATEN 5.8G 2.5W VTX PRO Table",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "geprc"
-      ],
-      "author": "Utka v tapkah",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/darwinfpv_vtx_25-200-400-600.txt",
-      "hash": "7c1d97eb07fb4369efd401bce32a30a1266fb8f8277af2a38a879648133e1e44",
-      "title": "DarwinFPV 25/200/400/600mW VTX Table",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "darwin",
-        "darwinfpv",
-        "TinyApe",
-        "CineApe"
-      ],
-      "author": "Utka v tapkah",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/jhemcu_vtx20-600.txt",
-      "hash": "4aed08b7cc5f696d8a92f1406014930054b6a1d885227ebfc488533bb231666a",
-      "title": "JHEMCU VTX20-600 5.8GHZ VTX Table",
-      "firmware_version": [
-        "4.2",
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "jhemcu"
-      ],
-      "author": "Utka v tapkah",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/speedybee_ultra.txt",
       "hash": "26f1872af13ae005a686f2c586aaf739b34b389c2ef6c6e3f7aa541a87882cc1",
       "title": "SpeedyBee Ultra VTX Tables",
@@ -2868,9 +2898,9 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.3/vtx/Tmotor_FT800.txt",
-      "hash": "820777009f8573b105bf5e300080e8044967ac2fe6ca03975009a4e4539c633d",
-      "title": "TMotor FT800 VTX Table",
+      "fullPath": "presets/4.3/vtx/tramp_nano_and_HV.txt",
+      "hash": "64eb806abbaa6f5398595524be9d512a3ccf77679b930c06081532ee703c5e4b",
+      "title": "IRC Tramp Nano and HV",
       "firmware_version": [
         "4.2",
         "4.3",
@@ -2882,9 +2912,12 @@
       "keywords": [
         "vtx",
         "vtx table",
-        "vtxtable"
+        "IRC",
+        "tramp",
+        "HV",
+        "nano"
       ],
-      "author": "jawz101",
+      "author": "sugarK",
       "priority": 1000000
     },
     {
@@ -3018,243 +3051,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.5/filters/basic_no_rpm_clean.txt",
-      "hash": "f71b9e5414b9386dcf4750d5fdbde6a6aa0329a15709a2b87b12c2524cd6d70e",
-      "title": "4.5 Filter settings for CLEAN build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "clean",
-        "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/basic_no_rpm_noisy.txt",
-      "hash": "e55776805e8eaeff3f906ffb03aaa4ceba10b249510063523fbbafc9d54f8057",
-      "title": "4.5 Filter settings for NOISY build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "noisy",
-        "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/basic_no_rpm_normal.txt",
-      "hash": "a7c57b6857b1de4291b21c3c3d07f01997f6128676907448163e2fb8f79f3d90",
-      "title": "4.5 Filter settings for NORMAL build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "normal",
-        "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/basic_no_rpm_very_clean.txt",
-      "hash": "9d42edcdd0ae547ff44a4b19dd9a3c8d60e25e17c4525874387bfc8747cc07fc",
-      "title": "4.5 Filter settings for VERY CLEAN build WITHOUT RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "no rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very clean",
-        "very",
-        "clean",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/basic_no_rpm_very_noisy.txt",
-      "hash": "d8d3d63821a56b0df340932883a6dad7f86ec3a65359053b51873f2e36b3cea3",
-      "title": "4.5 Filter settings for VERY NOISY build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "very noisy",
-        "very",
-        "noisy",
-        "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/basic_rpm_clean.txt",
-      "hash": "65d697a885d2bb6e6fecea2090982751319146b1ea503a41b31509eb4a05fcf2",
-      "title": "4.5 Filter settings for CLEAN build with RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "clean",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/basic_rpm_noisy.txt",
-      "hash": "bff7d885670d495e0276c39ccc9181769b98c9b1edc777e1e5d9ae3aa9158e72",
-      "title": "4.5 Filter settings for NOISY build with RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "noisy",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/basic_rpm_normal.txt",
-      "hash": "36fc3cc7be952fe26aa7806001fdd3e2c647046d262ec689558185fcd8e7a7f3",
-      "title": "4.5 Filter settings for NORMAL build with RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "normal",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/basic_rpm_very_clean.txt",
-      "hash": "72cd7dda73489c9e94f2dbc107cb4ae454b91858507fafa5d634f7881569ceb7",
-      "title": "4.5 Filter settings for VERY CLEAN build with RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very clean",
-        "very",
-        "clean",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/basic_rpm_very_noisy.txt",
-      "hash": "8a98cb614ede60cde06886a9fab9f7bebe6127646b29c38c8fd8488a578c50bd",
-      "title": "4.5 Filter settings for VERY NOISY build with RPM FILTERING.",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very",
-        "noisy",
-        "very noisy",
-        "hot",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/ctzsnooze_race.txt",
-      "hash": "68a0b9e133e4dee6dce8d97ae82d55efca4e9d555605ef848e03107e898ad99e",
-      "title": "ctzsnooze's race filter settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race",
-        "filter",
-        "filters",
-        "ctzsnooze",
-        "RPM"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
       "fullPath": "presets/4.5/filters/defaults.txt",
       "hash": "618e82175f3f63abfcbdd5315e2c17d915f608ac42af22aa1256470f3d2ea5fe",
       "title": "Default 4.5 Filter settings",
@@ -3270,29 +3066,6 @@
         "reset"
       ],
       "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/filters/karate_array.txt",
-      "hash": "b7ff5ce7c32bf3d2061d539fe8fd6d526b48505e05d48e8c5c22ea4d54a284b7",
-      "title": "the Karate array",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "karate",
-        "race",
-        "freesytle",
-        "suagrK",
-        "CTZsoonze",
-        "KarateBrot",
-        "5\""
-      ],
-      "author": "sugarK",
       "priority": 100
     },
     {
@@ -3374,6 +3147,29 @@
         "GPS_Rescue"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/multigp_pro_spec.txt",
+      "hash": "a340e77d4555317ce3c14ecda94583abdf6b074a176a09cd9abfd24e7d0287e2",
+      "title": "MultiGP PRO Spec 7\"",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "6S",
+        "race",
+        "7 inch",
+        "7\"",
+        "Shames",
+        "MGP",
+        "Sharjah",
+        "multigp"
+      ],
+      "author": "Armando Gallegos (Mondo)",
+      "force_options_review": true,
       "priority": 0
     },
     {
