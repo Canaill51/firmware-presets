@@ -47,7 +47,8 @@
       "OPTION_CHECKED": "(checked)",
       "OPTION_UNCHECKED": "(unchecked)",
       "BEGIN_OPTION_GROUP_DIRECTIVE": "option_group begin",
-      "END_OPTION_GROUP_DIRECTIVE": "option_group end"
+      "END_OPTION_GROUP_DIRECTIVE": "option_group end",
+      "EXCLUSIVE_OPTION_GROUP": "(exclusive)"
     },
     "PresetStatusEnum": [
       "OFFICIAL",
@@ -151,7 +152,6 @@
       "VTX"
     ],
     "author": [
-      "Armando Gallegos (Mondo)",
       "benlumley",
       "Betaflight",
       "Cedric",
@@ -166,6 +166,7 @@
       "jawz101",
       "Jye Smith",
       "KMfpv",
+      "mouseFPV",
       "MrAlucardDante",
       "NemesisXB",
       "Sartor",
@@ -189,17 +190,19 @@
       "250Hz",
       "2ms",
       "2S",
+      "3 Inch",
       "3d",
       "3S",
+      "4s",
+      "5 inch",
       "5\"",
       "500Hz",
       "50Hz",
       "533",
       "55Hz",
+      "5in",
       "666Hz",
       "6S",
-      "7 inch",
-      "7\"",
       "9ms",
       "Acrobaix",
       "actual",
@@ -207,6 +210,8 @@
       "air unit",
       "akk",
       "analog",
+      "AOS",
+      "AOS T3",
       "Audio TBS",
       "aux",
       "Avatar",
@@ -231,6 +236,7 @@
       "default",
       "defaults",
       "diatone",
+      "Digipick",
       "digital",
       "disable",
       "displayport",
@@ -252,6 +258,8 @@
       "Foxeer",
       "fport",
       "fpv.wtf",
+      "FPVCycle",
+      "FPVCycle TP3",
       "FreedomSpec",
       "freestyle",
       "freesytle",
@@ -261,6 +269,7 @@
       "geprc",
       "ghost",
       "GHST",
+      "GoPro",
       "GPS",
       "GPS_Rescue",
       "GTB339",
@@ -287,9 +296,9 @@
       "logging",
       "Long Range",
       "mamba",
-      "MGP",
       "mode",
       "modes",
+      "mouse fpv",
       "msp",
       "msp-osd",
       "Multi",
@@ -343,8 +352,6 @@
       "Safe",
       "sbus",
       "SBUS fast",
-      "Shames",
-      "Sharjah",
       "Smart",
       "smart audio",
       "smartaudio",
@@ -356,10 +363,12 @@
       "speedybee",
       "stats",
       "suagrK",
+      "sub 250",
       "sugar k",
       "sugarK",
       "switch",
       "SWPR",
+      "T3",
       "tank solo",
       "tank ultimate",
       "TBS",
@@ -1187,128 +1196,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/rc_link/elrs_150hz.txt",
-      "hash": "6dd1ff263d73d873e6522488bfdf9c6ee59db638c391bb855ea4c7abee09d254",
-      "title": "ExpressLRS 150Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "150Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_250hz.txt",
-      "hash": "11feaf5c5defdf532c33babcefb569ee12fb0588eaf94afd6eadb57e0683aa24",
-      "title": "ExpressLRS 250Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "250Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_500hz.txt",
-      "hash": "49b8461f4bfe6e593ff987b35bedaac2124d9e2c3e896af50054e851cda1a1eb",
-      "title": "ExpressLRS 500Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "500Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_50hz.txt",
-      "hash": "4faff8ac9785b00aff84e9d4c4f84deedebd65f918dcc05c29034bdc1f206eba",
-      "title": "ExpressLRS 50Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "50Hz",
-        "20ms",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/frsky_sbus_fport.txt",
-      "hash": "38fa39e47349098296f9cc051dd93ab320d29fb776490e714fd94952324c3a70",
-      "title": "FrSky Sbus or FPort",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "frsky",
-        "sbus",
-        "fport",
-        "9ms",
-        "111hz",
-        "rc",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
       "fullPath": "presets/4.3/rc_link/generic/1000hz_race.txt",
       "hash": "62fb692e29f5613e66509b0f7e1606c34323fd9b5f6a9ab9267c38bd3d879c32",
       "title": "Generic 1000z Race",
@@ -2092,6 +1979,128 @@
       "priority": 10000000000
     },
     {
+      "fullPath": "presets/4.3/rc_link/elrs_150hz.txt",
+      "hash": "d22b0d44a2b43371e90d9e55ee84f1974772c273dba2a9f3be07c7e6b03df907",
+      "title": "ExpressLRS 150Hz",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "ELRS",
+        "express",
+        "150Hz",
+        "rc",
+        "rx",
+        "link",
+        "smoothing"
+      ],
+      "author": "ctzsnooze",
+      "force_options_review": true,
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/elrs_250hz.txt",
+      "hash": "93bbf1677661ffa837c016c20c0f625481f171bb225f57232442a2fd50557fce",
+      "title": "ExpressLRS 250Hz",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "ELRS",
+        "express",
+        "250Hz",
+        "rc",
+        "rx",
+        "link",
+        "smoothing"
+      ],
+      "author": "ctzsnooze",
+      "force_options_review": true,
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/elrs_500hz.txt",
+      "hash": "faecfd633baedd5f1a66dc0686d3dfd50b5b6a2fd9d85e00a14905e0de5198e5",
+      "title": "ExpressLRS 500Hz",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "ELRS",
+        "express",
+        "500Hz",
+        "rc",
+        "rx",
+        "link",
+        "smoothing"
+      ],
+      "author": "ctzsnooze",
+      "force_options_review": true,
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/elrs_50hz.txt",
+      "hash": "7f73224ec6a15a37ef9b56eefe2ed24db8b5dfbd12aa8ab273d030f916f07d00",
+      "title": "ExpressLRS 50Hz",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "ELRS",
+        "express",
+        "50Hz",
+        "20ms",
+        "rc",
+        "rx",
+        "link",
+        "smoothing"
+      ],
+      "author": "ctzsnooze",
+      "force_options_review": true,
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/frsky_sbus_fport.txt",
+      "hash": "73e4768eec03c13153109b62ccf923403abfb1b363415b68adcf05d8c9c49d1e",
+      "title": "FrSky Sbus or FPort",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "frsky",
+        "sbus",
+        "fport",
+        "9ms",
+        "111hz",
+        "rc",
+        "link",
+        "smoothing"
+      ],
+      "author": "ctzsnooze",
+      "force_options_review": true,
+      "priority": 10000000000
+    },
+    {
       "fullPath": "presets/4.3/tune/defaults.txt",
       "hash": "78f827d0a9c615a3be454362b7bfe9751ddd981ed23cd07c0c1f79c4415dace9",
       "title": "TUNE defaults",
@@ -2166,6 +2175,105 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/tune/mouseFPV_AOS_35_tune_filters.txt",
+      "hash": "98c482fa609edd3ccb1f00b5a5dca5a8c6b5be06633f4aaf59a843617333ba25",
+      "title": "AOS 3.5 V1 4s Tune | mouseFPV",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "AOS",
+        "4s",
+        "freestyle",
+        "sub 250"
+      ],
+      "author": "mouseFPV",
+      "force_options_review": true,
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/mouseFPV_Digipick_braced.txt",
+      "hash": "5654ac78531f98ae6c668bf53275ff205a36762a81b08f20af5bacca57c78372",
+      "title": "Braced Toothpick/Digipick 3s/4s | mouseFPV",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "FPVCycle TP3",
+        "Digipick",
+        "Toothpick",
+        "3s",
+        "3 Inch",
+        "4s",
+        "AOS T3",
+        "T3"
+      ],
+      "author": "mouseFPV",
+      "force_options_review": true,
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/mouseFPV_FFVCycle_Incisor_PT5_tune_filters.txt",
+      "hash": "77c9d73e5ebec33b38b3ee4c3326b21be03c730db91b3e2eb852838dfaab5002",
+      "title": "FPVCycle Incisor/Prototype 5 6s Tune | mouseFPV",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "FPVCycle",
+        "5 inch",
+        "5in",
+        "6S",
+        "freestyle",
+        "GoPro",
+        "mouse fpv"
+      ],
+      "author": "mouseFPV",
+      "force_options_review": true,
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/mouseFPV_FPVCycle_Sonicare_tune_filters.txt",
+      "hash": "27901f4dcda5b39b1d9a1fce3e9c8c5e74c65109910de0f205dd0b6a5434e1cb",
+      "title": "FPVCycle Sonicare 6s Tune | mouseFPV",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "FPVCycle"
+      ],
+      "author": "mouseFPV",
+      "force_options_review": true,
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/mouseFPV_toothpick3_3s.txt",
+      "hash": "ff2c67a934c6fa74260e9de87c85469075b1edf7d1fb3c4a0fc503f04e52ceaf",
+      "title": "FPVCycle Toothpick 3 3s | mouseFPV",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "FPVCycle TP3",
+        "Toothpick",
+        "3s",
+        "3 inch"
+      ],
+      "author": "mouseFPV",
+      "force_options_review": true,
+      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/vtx/AKK_FX2_Dominator_2W.txt",
@@ -3091,29 +3199,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/leds/quaddiction_tinytrainer.txt",
-      "hash": "0c2ce894b2e4c7ab236cd45a39e2a6043592931cf985db7fc48cc0f0ecd30813",
-      "title": "Quaddiction TinyTrainer LED settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "LEDS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "leds",
-        "533",
-        "five33",
-        "quaddiction",
-        "sugarK",
-        "spec",
-        "spec racing",
-        "tinytrainer",
-        "tiny"
-      ],
-      "author": "sugarK",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.5/other/reset_3d.txt",
       "hash": "457090460225ee84ddb27a46e74530078f00741067dcf51fb5f3cec443b29d31",
       "title": "Reset 3D settings to 4.5 default settings",
@@ -3147,29 +3232,6 @@
         "GPS_Rescue"
       ],
       "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/multigp_pro_spec.txt",
-      "hash": "a340e77d4555317ce3c14ecda94583abdf6b074a176a09cd9abfd24e7d0287e2",
-      "title": "MultiGP PRO Spec 7\"",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "6S",
-        "race",
-        "7 inch",
-        "7\"",
-        "Shames",
-        "MGP",
-        "Sharjah",
-        "multigp"
-      ],
-      "author": "Armando Gallegos (Mondo)",
-      "force_options_review": true,
       "priority": 0
     },
     {
