@@ -177,7 +177,6 @@
       "Utka v tapkah"
     ],
     "keywords": [
-      "03",
       "1000Hz",
       "111hz",
       "150Hz",
@@ -223,7 +222,6 @@
       "CineApe",
       "clean",
       "clear",
-      "colour change",
       "Configure",
       "control",
       "Crossfire",
@@ -274,8 +272,6 @@
       "GPS_Rescue",
       "GTB339",
       "gyroflow",
-      "HD",
-      "HD video",
       "HDzero",
       "HighKV",
       "hot",
@@ -310,8 +306,6 @@
       "no rpm",
       "noisy",
       "normal",
-      "O3",
-      "O3 air unit",
       "OpenVTx",
       "OSD",
       "panda",
@@ -3127,38 +3121,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/vtx/DJI_FPV-WTF_MSP-OSD.txt",
-      "hash": "3a32624a215bafee95f4581bea961dbdc7eac45f8c71e687c1c4ab45d0c2fbca",
-      "title": "OSD for Fpv.wtf, DJI O3, Avatar HD",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "dji",
-        "O3 air unit",
-        "O3",
-        "03",
-        "avatar",
-        "walksnail",
-        "HD",
-        "HD video",
-        "vista",
-        "air unit",
-        "fpv.wtf",
-        "wtfos",
-        "msp-osd",
-        "displayport",
-        "msp",
-        "sugarK"
-      ],
-      "author": "benlumley",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.5/filters/defaults.txt",
       "hash": "618e82175f3f63abfcbdd5315e2c17d915f608ac42af22aa1256470f3d2ea5fe",
       "title": "Default 4.5 Filter settings",
@@ -3175,28 +3137,6 @@
       ],
       "author": "Betaflight",
       "priority": 100
-    },
-    {
-      "fullPath": "presets/4.5/leds/LED VTX  race mode.txt",
-      "hash": "9f7ff587ab9bb60c8902dfdd14a4b3477cf3d3605a3eccdc771ed8bfd4a1ebee",
-      "title": "RACE mode LED settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "LEDS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "leds",
-        "race",
-        "vtx",
-        "colour change",
-        "sugarK",
-        "spec",
-        "spec racing",
-        "tinytrainer"
-      ],
-      "author": "sugarK",
-      "priority": 0
     },
     {
       "fullPath": "presets/4.5/other/reset_3d.txt",
