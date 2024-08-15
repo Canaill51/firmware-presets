@@ -1,0 +1,14 @@
+#$ TITLE: GuiGui OSD No GPS Infos settings
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: OSD
+#$ AUTHOR: GuiGui
+
+set osd_link_quality_pos = 3340
+set osd_craft_name_pos = 2593
+set osd_avg_cell_voltage_pos = 3308
+set osd_canvas_width = 60
+set osd_canvas_height = 22
