@@ -4273,7 +4273,7 @@
     },
     {
       "fullPath": "presets/4.4/modes/GuiGui_Modes.txt",
-      "hash": "8e752da03ad948155352ff0368870785d4dd765b981e23ab49a6b574c3c7115f",
+      "hash": "c9de3ceaa6705fc344d44ddb9c311f24f4539002847ce7c30c7e7c23f9967be6",
       "title": "GuiGui Modes",
       "firmware_version": [
         "4.3",
@@ -4290,6 +4290,23 @@
         "adjustments",
         "aux",
         "switch"
+      ],
+      "author": "GuiGui",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/GuiGui_OSD-No_GPS_Infos.txt",
+      "hash": "0b15b78ef9872720eda1c2be77ae808623c061aa4741642db4ee76ee40fe735e",
+      "title": "GuiGui OSD No GPS Infos settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
       ],
       "author": "GuiGui",
       "priority": 0
@@ -4312,25 +4329,8 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/osd/GuiGui_OSD-No_GPS_Infos.txt",
-      "hash": "731bdd26f04675ccf82959f38cd5af903b5494a336608cc0078185f893a1625f",
-      "title": "GuiGui OSD No GPS Infos settings",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "OSD"
-      ],
-      "author": "GuiGui",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.4/rates/GuiGui_Rates.txt",
-      "hash": "cd818e6a744f77198da5c317904474596d2a2f9f2a5fb88dee0529bc766e66f1",
+      "hash": "cd2b8cbb18f96bbaf8cda750a73353e557b1325612805cc3d67b61c6151dd650",
       "title": "GuiGui Rates",
       "firmware_version": [
         "4.3",
