@@ -398,63 +398,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/modes/Cedric_Modes.txt",
-      "hash": "943940b9eb596630802aa49985a986f4842e26c748f0f4a5acd28c08e028782a",
-      "title": "Cedric Modes",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "MODES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "mode",
-        "modes",
-        "adjustments",
-        "aux",
-        "switch"
-      ],
-      "author": "Cedric",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/osd/Cedric_OSD.txt",
-      "hash": "f89bb8dfc1e9a68f05963c0defbca8c04477f08655795ffc2d56c7a0bfdf6583",
-      "title": "Cedric 4.4 OSD settings",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "OSD"
-      ],
-      "author": "Cedric",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/rates/Cedric_Rates.txt",
-      "hash": "be4069cee25be476ec6308716da400ff3a442d812e512d51eaea9e11bdd05c99",
-      "title": "Cedric Rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "rates"
-      ],
-      "author": "Cedric",
-      "priority": 10000
-    },
-    {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
       "hash": "fe6be880bb051e1294253d2f583def5c9ad8c540d3463540ec9b80fa2a5d775a",
       "title": "Reset ALL RC link related settings",
@@ -565,6 +508,63 @@
       ],
       "author": "Betaflight",
       "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.5/osd/Cedric_OSD.txt",
+      "hash": "f89bb8dfc1e9a68f05963c0defbca8c04477f08655795ffc2d56c7a0bfdf6583",
+      "title": "Cedric 4.4 OSD settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Cedric",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/rates/Cedric_Rates.txt",
+      "hash": "be4069cee25be476ec6308716da400ff3a442d812e512d51eaea9e11bdd05c99",
+      "title": "Cedric Rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates"
+      ],
+      "author": "Cedric",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.5/modes/Cedric_Modes.txt",
+      "hash": "943940b9eb596630802aa49985a986f4842e26c748f0f4a5acd28c08e028782a",
+      "title": "Cedric Modes",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Cedric",
+      "priority": 0
     }
   ]
 }
