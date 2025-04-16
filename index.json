@@ -510,40 +510,6 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.5/osd/Cedric_OSD.txt",
-      "hash": "f89bb8dfc1e9a68f05963c0defbca8c04477f08655795ffc2d56c7a0bfdf6583",
-      "title": "Cedric 4.4 OSD settings",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "OSD"
-      ],
-      "author": "Cedric",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/rates/Cedric_Rates.txt",
-      "hash": "be4069cee25be476ec6308716da400ff3a442d812e512d51eaea9e11bdd05c99",
-      "title": "Cedric Rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "rates"
-      ],
-      "author": "Cedric",
-      "priority": 10000
-    },
-    {
       "fullPath": "presets/4.5/modes/Cedric_Modes.txt",
       "hash": "943940b9eb596630802aa49985a986f4842e26c748f0f4a5acd28c08e028782a",
       "title": "Cedric Modes",
@@ -565,6 +531,40 @@
       ],
       "author": "Cedric",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/Cedric_OSD.txt",
+      "hash": "f89bb8dfc1e9a68f05963c0defbca8c04477f08655795ffc2d56c7a0bfdf6583",
+      "title": "Cedric 4.4 OSD settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Cedric",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/rates/Cedric_Rates.txt",
+      "hash": "5f5a4fa0c990ea7b7beabc49a5e02b24c774b09f8b48ef0fc0ad675262868f0b",
+      "title": "Cedric Rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates"
+      ],
+      "author": "Cedric",
+      "priority": 10000
     }
   ]
 }
