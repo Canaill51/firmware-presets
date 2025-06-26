@@ -337,6 +337,24 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.5/bnf/betafpv_air75.txt",
+      "hash": "8b97e2a35503478d141d5707f3de6baddceff463f1eede4bd3caa3fd51c56075",
+      "title": "BetaFPV Air75 Factory Defaults",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "COMMUNITY",
+      "keywords": [
+        "bnf",
+        "diff",
+        "betafpv",
+        "air75"
+      ],
+      "author": "YarosFPV (Yaroslav Syubayev)",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/filters/defaults.txt",
       "hash": "618e82175f3f63abfcbdd5315e2c17d915f608ac42af22aa1256470f3d2ea5fe",
       "title": "Default 4.5 Filter settings",
@@ -353,6 +371,63 @@
       ],
       "author": "Betaflight",
       "priority": 100
+    },
+    {
+      "fullPath": "presets/4.5/modes/GuiGui_Modes.txt",
+      "hash": "c9de3ceaa6705fc344d44ddb9c311f24f4539002847ce7c30c7e7c23f9967be6",
+      "title": "GuiGui Modes",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "GuiGui",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/defaults.txt",
+      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
+      "title": "Default 4.4 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/GuiGui_OSD-No_GPS_Infos.txt",
+      "hash": "0b15b78ef9872720eda1c2be77ae808623c061aa4741642db4ee76ee40fe735e",
+      "title": "GuiGui OSD No GPS Infos settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "GuiGui",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.5/other/reset_3d.txt",
@@ -389,6 +464,23 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/rates/GuiGui_Rates.txt",
+      "hash": "cd2b8cbb18f96bbaf8cda750a73353e557b1325612805cc3d67b61c6151dd650",
+      "title": "GuiGui Rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates"
+      ],
+      "author": "GuiGui",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.5/tune/defaults.txt",
@@ -429,98 +521,6 @@
       ],
       "author": "Betaflight",
       "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.5/bnf/betafpv_air75.txt",
-      "hash": "8b97e2a35503478d141d5707f3de6baddceff463f1eede4bd3caa3fd51c56075",
-      "title": "BetaFPV Air75 Factory Defaults",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "BNF",
-      "status": "COMMUNITY",
-      "keywords": [
-        "bnf",
-        "diff",
-        "betafpv",
-        "air75"
-      ],
-      "author": "YarosFPV (Yaroslav Syubayev)",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/modes/GuiGui_Modes.txt",
-      "hash": "c9de3ceaa6705fc344d44ddb9c311f24f4539002847ce7c30c7e7c23f9967be6",
-      "title": "GuiGui Modes",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "MODES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "mode",
-        "modes",
-        "adjustments",
-        "aux",
-        "switch"
-      ],
-      "author": "GuiGui",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/osd/GuiGui_OSD-No_GPS_Infos.txt",
-      "hash": "0b15b78ef9872720eda1c2be77ae808623c061aa4741642db4ee76ee40fe735e",
-      "title": "GuiGui OSD No GPS Infos settings",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "OSD"
-      ],
-      "author": "GuiGui",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/osd/defaults.txt",
-      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
-      "title": "Default 4.4 OSD settings",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OSD",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "OSD"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/rates/GuiGui_Rates.txt",
-      "hash": "cd2b8cbb18f96bbaf8cda750a73353e557b1325612805cc3d67b61c6151dd650",
-      "title": "GuiGui Rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "rates"
-      ],
-      "author": "GuiGui",
-      "priority": 10000
     }
   ]
 }
