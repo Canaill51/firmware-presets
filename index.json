@@ -434,82 +434,6 @@
       "priority": 100
     },
     {
-      "fullPath": "presets/4.5/other/reset_3d.txt",
-      "hash": "457090460225ee84ddb27a46e74530078f00741067dcf51fb5f3cec443b29d31",
-      "title": "Reset 3D settings to 4.5 default settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "3d",
-        "upside down"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/reset_gps.txt",
-      "hash": "e02daf2076331cda4141148d2cd029fed1c60803b07a4216d0e455e27a4b676a",
-      "title": "Reset GPS to 4.5 default settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "GPS",
-        "GPS_Rescue"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/tune/defaults.txt",
-      "hash": "40d749b64f98141dea03e11b77976f0907a7e3b912c2e52c7395715eb570dfdd",
-      "title": "Betaflight 4.5 TUNE defaults",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "tune",
-        "pid",
-        "basic",
-        "default"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/tune/defaults_tune_filters.txt",
-      "hash": "96b06ac2382874bdf295486f646aa2e7ff2739bb2e5b664d0bb9e0f555335624",
-      "title": "Defaults: TUNE + FILTERS",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "tune",
-        "pid",
-        "default",
-        "filters"
-      ],
-      "author": "Betaflight",
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.5/modes/Cedric_Modes.txt",
       "hash": "943940b9eb596630802aa49985a986f4842e26c748f0f4a5acd28c08e028782a",
       "title": "Cedric Modes",
@@ -550,6 +474,42 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/other/reset_3d.txt",
+      "hash": "457090460225ee84ddb27a46e74530078f00741067dcf51fb5f3cec443b29d31",
+      "title": "Reset 3D settings to 4.5 default settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "3d",
+        "upside down"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_gps.txt",
+      "hash": "e02daf2076331cda4141148d2cd029fed1c60803b07a4216d0e455e27a4b676a",
+      "title": "Reset GPS to 4.5 default settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "GPS",
+        "GPS_Rescue"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/rates/Cedric_Rates.txt",
       "hash": "b5f3c9c33466bef7eb84717b50225e34963203ab18a6d553f07e3d2e30a6fbac",
       "title": "Cedric Rates",
@@ -565,6 +525,46 @@
       ],
       "author": "Cedric",
       "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.5/tune/defaults.txt",
+      "hash": "40d749b64f98141dea03e11b77976f0907a7e3b912c2e52c7395715eb570dfdd",
+      "title": "Betaflight 4.5 TUNE defaults",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/tune/defaults_tune_filters.txt",
+      "hash": "96b06ac2382874bdf295486f646aa2e7ff2739bb2e5b664d0bb9e0f555335624",
+      "title": "Defaults: TUNE + FILTERS",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "default",
+        "filters"
+      ],
+      "author": "Betaflight",
+      "priority": 1000000000000
     }
   ]
 }
