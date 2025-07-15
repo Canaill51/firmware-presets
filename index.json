@@ -528,15 +528,15 @@
     },
     {
       "fullPath": "presets/4.5/rc_link/ELRS_250_500.txt",
-      "hash": "4b040f24c3f3ead0edae874314c02f1ad3030176876c3089c8c089f5e361eb41",
-      "title": "Reset RC related settings",
+      "hash": "cf9525687947bb1bbd2859674c8f518d979290e892d8f6765a7566e39c8ac9b3",
+      "title": "ELRS 250 & 500 RCLink",
       "firmware_version": [
         "4.3",
         "4.4",
         "4.5"
       ],
       "category": "RC_LINK",
-      "status": "OFFICIAL",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "defaults",
         "Rx",
@@ -547,7 +547,7 @@
         "smoothing",
         "rc_smoothing"
       ],
-      "author": "Betaflight",
+      "author": "Cedric",
       "priority": 0
     },
     {

@@ -1,4 +1,4 @@
-#$ TITLE: Reset RC related settings
+#$ TITLE: ELRS 250 & 500 RCLink
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
