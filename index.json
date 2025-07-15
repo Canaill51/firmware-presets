@@ -528,8 +528,8 @@
     },
     {
       "fullPath": "presets/4.5/rc_link/ELRS_250_500.txt",
-      "hash": "cf9525687947bb1bbd2859674c8f518d979290e892d8f6765a7566e39c8ac9b3",
-      "title": "ELRS 250 & 500 RCLink",
+      "hash": "01ee21aad72b37d0e8defe27aaf876cf3724be872bfca5248d9d1f83a2376455",
+      "title": "Cedric ELRS 250 & 500 RCLink",
       "firmware_version": [
         "4.3",
         "4.4",
