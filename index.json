@@ -139,7 +139,6 @@
       "4.5"
     ],
     "category": [
-      "BNF",
       "FILTERS",
       "LEDS",
       "MODES",
@@ -151,21 +150,16 @@
     ],
     "author": [
       "Betaflight",
-      "GuiGui",
-      "YarosFPV (Yaroslav Syubayev)"
+      "GuiGui"
     ],
     "keywords": [
       "3d",
       "actual",
       "adjustments",
-      "air75",
       "aux",
       "basic",
-      "betafpv",
-      "bnf",
       "default",
       "defaults",
-      "diff",
       "filter",
       "filters",
       "GPS",
@@ -337,24 +331,6 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.5/bnf/betafpv_air75.txt",
-      "hash": "8b97e2a35503478d141d5707f3de6baddceff463f1eede4bd3caa3fd51c56075",
-      "title": "BetaFPV Air75 Factory Defaults",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "BNF",
-      "status": "COMMUNITY",
-      "keywords": [
-        "bnf",
-        "diff",
-        "betafpv",
-        "air75"
-      ],
-      "author": "YarosFPV (Yaroslav Syubayev)",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.5/filters/defaults.txt",
       "hash": "618e82175f3f63abfcbdd5315e2c17d915f608ac42af22aa1256470f3d2ea5fe",
       "title": "Default 4.5 Filter settings",
@@ -396,23 +372,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/osd/defaults.txt",
-      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
-      "title": "Default 4.4 OSD settings",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OSD",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "OSD"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.5/osd/GuiGui_OSD-No_GPS_Infos.txt",
       "hash": "0b15b78ef9872720eda1c2be77ae808623c061aa4741642db4ee76ee40fe735e",
       "title": "GuiGui OSD No GPS Infos settings",
@@ -427,6 +386,23 @@
         "OSD"
       ],
       "author": "GuiGui",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/defaults.txt",
+      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
+      "title": "Default 4.4 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
       "priority": 0
     },
     {
