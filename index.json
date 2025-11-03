@@ -372,23 +372,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/osd/GuiGui_OSD-No_GPS_Infos.txt",
-      "hash": "0b15b78ef9872720eda1c2be77ae808623c061aa4741642db4ee76ee40fe735e",
-      "title": "GuiGui OSD No GPS Infos settings",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "OSD"
-      ],
-      "author": "GuiGui",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.5/osd/defaults.txt",
       "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
       "title": "Default 4.4 OSD settings",
@@ -403,6 +386,23 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/GuiGui_OSD-No_GPS_Infos.txt",
+      "hash": "0b15b78ef9872720eda1c2be77ae808623c061aa4741642db4ee76ee40fe735e",
+      "title": "GuiGui OSD No GPS Infos settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "GuiGui",
       "priority": 0
     },
     {
