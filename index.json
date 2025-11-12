@@ -134,6 +134,7 @@
   },
   "uniqueValues": {
     "firmware_version": [
+      "2025.12",
       "4.3",
       "4.4",
       "4.5"
@@ -150,7 +151,8 @@
     ],
     "author": [
       "Betaflight",
-      "Cedric"
+      "Cedric",
+      "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
       "3d",
@@ -160,6 +162,7 @@
       "basic",
       "default",
       "defaults",
+      "DJI",
       "expert",
       "filter",
       "filters",
@@ -186,6 +189,54 @@
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/2025.12/osd/UAV_tech_DJI.txt",
+      "hash": "de9e7c169ff14594f454ccb2330c5b289ea946f8cf2c145682a960fff105e7ba",
+      "title": "UAV Tech - DJI",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "DJI"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2025.12/osd/UAV_tech_DJI_GPS.txt",
+      "hash": "a2f45fc44448579f611fe2e4e8bf6145fec0ef42b17952287b6c0344b0e1d990",
+      "title": "UAV Tech - DJI with GPS",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "DJI",
+        "GPS"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2025.12/osd/defaults.txt",
+      "hash": "82aecb211c6ed2fc0d6bcbefd59c2535b324c34f73c1c2649cdb821adaf2b63f",
+      "title": "Default 2025.12 OSD settings",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "94dd6e400f67d5bde88bf5a6952c83255db887da83dcc9b247a04ffac43f9cd2",
