@@ -238,6 +238,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/2025.12/rates/defaults.txt",
+      "hash": "28417e3b786a5d364fcc6c2a3c37207fb9ebb6c571364468096702f46c8835bb",
+      "title": "Default rates",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rates",
+        "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "94dd6e400f67d5bde88bf5a6952c83255db887da83dcc9b247a04ffac43f9cd2",
       "title": "Default 4.3 Filter settings",
@@ -509,12 +526,13 @@
     },
     {
       "fullPath": "presets/4.5/osd/Cedric_OSD.txt",
-      "hash": "f89bb8dfc1e9a68f05963c0defbca8c04477f08655795ffc2d56c7a0bfdf6583",
+      "hash": "1aa706e454f750a3ff20d946ea263af4ec04a36eb42b88775f264ae7a55b1466",
       "title": "Cedric 4.4 OSD settings",
       "firmware_version": [
         "4.3",
         "4.4",
-        "4.5"
+        "4.5",
+        "2025.12"
       ],
       "category": "OSD",
       "status": "EXPERIMENTAL",
