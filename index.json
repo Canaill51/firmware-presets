@@ -231,6 +231,61 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/2025.12/other/reset_gps.txt",
+      "hash": "b2e065b7bbf6eef24d377a596428f2978800214de8c3a5606737c725d559e527",
+      "title": "Reset GPS to 2025.12 default settings",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "GPS",
+        "GPS_Rescue"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2025.12/rates/defaults.txt",
+      "hash": "28417e3b786a5d364fcc6c2a3c37207fb9ebb6c571364468096702f46c8835bb",
+      "title": "Default rates",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rates",
+        "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2025.12/tune/defaults.txt",
+      "hash": "8ae71425a27ac35d53b57e962d0e81ff22a6515b9ee2b94fe45c771492010eee",
+      "title": "Betaflight 2025.12 TUNE defaults",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "94dd6e400f67d5bde88bf5a6952c83255db887da83dcc9b247a04ffac43f9cd2",
       "title": "Default 4.3 Filter settings",
@@ -401,12 +456,13 @@
     },
     {
       "fullPath": "presets/4.5/modes/GuiGui_Modes.txt",
-      "hash": "c9de3ceaa6705fc344d44ddb9c311f24f4539002847ce7c30c7e7c23f9967be6",
+      "hash": "b7194228da857e11e05a1332203e9ed46da209cf6ff247c9fd36e468c13a9ed5",
       "title": "GuiGui Modes",
       "firmware_version": [
         "4.3",
         "4.4",
-        "4.5"
+        "4.5",
+        "2025.12"
       ],
       "category": "MODES",
       "status": "EXPERIMENTAL",
@@ -424,12 +480,13 @@
     },
     {
       "fullPath": "presets/4.5/osd/GuiGui_OSD-No_GPS_Infos.txt",
-      "hash": "0b15b78ef9872720eda1c2be77ae808623c061aa4741642db4ee76ee40fe735e",
+      "hash": "dae48af2837081791a87d0c126fc2ce6f7a05d79dbdb19d060532816792a1c51",
       "title": "GuiGui OSD No GPS Infos settings",
       "firmware_version": [
         "4.3",
         "4.4",
-        "4.5"
+        "4.5",
+        "2025.12"
       ],
       "category": "OSD",
       "status": "EXPERIMENTAL",
@@ -494,12 +551,13 @@
     },
     {
       "fullPath": "presets/4.5/rates/GuiGui_Rates.txt",
-      "hash": "cd2b8cbb18f96bbaf8cda750a73353e557b1325612805cc3d67b61c6151dd650",
+      "hash": "79b3b556a1f429cfd65bd3a4523e3c1dd3978bd38c0b2f242e1f28847cbbdb21",
       "title": "GuiGui Rates",
       "firmware_version": [
         "4.3",
         "4.4",
-        "4.5"
+        "4.5",
+        "2025.12"
       ],
       "category": "RATES",
       "status": "EXPERIMENTAL",
