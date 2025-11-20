@@ -238,6 +238,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/2025.12/other/reset_gps.txt",
+      "hash": "b2e065b7bbf6eef24d377a596428f2978800214de8c3a5606737c725d559e527",
+      "title": "Reset GPS to 2025.12 default settings",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "GPS",
+        "GPS_Rescue"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/2025.12/rates/defaults.txt",
       "hash": "28417e3b786a5d364fcc6c2a3c37207fb9ebb6c571364468096702f46c8835bb",
       "title": "Default rates",
@@ -250,6 +268,26 @@
         "defaults",
         "rates",
         "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2025.12/tune/defaults.txt",
+      "hash": "8ae71425a27ac35d53b57e962d0e81ff22a6515b9ee2b94fe45c771492010eee",
+      "title": "Betaflight 2025.12 TUNE defaults",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
       ],
       "author": "Betaflight",
       "priority": 0
@@ -503,12 +541,13 @@
     },
     {
       "fullPath": "presets/4.5/modes/Cedric_Modes.txt",
-      "hash": "943940b9eb596630802aa49985a986f4842e26c748f0f4a5acd28c08e028782a",
+      "hash": "0c0287089da4897d6499e3c3e0f5155f1c736b79427e674847762adb65df4574",
       "title": "Cedric Modes",
       "firmware_version": [
         "4.3",
         "4.4",
-        "4.5"
+        "4.5",
+        "2025.12"
       ],
       "category": "MODES",
       "status": "EXPERIMENTAL",
@@ -580,12 +619,13 @@
     },
     {
       "fullPath": "presets/4.5/rates/Cedric_Rates.txt",
-      "hash": "78ab82ba0d54474c1432f930a0e3c7ea7637390d985b7a6969729490a32020da",
+      "hash": "b4c76eda8e4ba69b703d5292f42799e1285e97946c3159362714be8f150d94ed",
       "title": "Cedric Rates",
       "firmware_version": [
         "4.3",
         "4.4",
-        "4.5"
+        "4.5",
+        "2025.12"
       ],
       "category": "RATES",
       "status": "EXPERIMENTAL",
@@ -594,30 +634,6 @@
       ],
       "author": "Cedric",
       "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.5/rc_link/ELRS_250_500.txt",
-      "hash": "01ee21aad72b37d0e8defe27aaf876cf3724be872bfca5248d9d1f83a2376455",
-      "title": "Cedric ELRS 250 & 500 RCLink",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RC_LINK",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "defaults",
-        "Rx",
-        "RC",
-        "reset",
-        "rc link",
-        "rc_link",
-        "smoothing",
-        "rc_smoothing"
-      ],
-      "author": "Cedric",
-      "priority": 0
     },
     {
       "fullPath": "presets/4.5/tune/defaults.txt",
