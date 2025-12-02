@@ -151,8 +151,7 @@
     ],
     "author": [
       "Betaflight",
-      "Cedric",
-      "UAV Tech (Mark Spatz)"
+      "Cedric"
     ],
     "keywords": [
       "3d",
@@ -162,7 +161,6 @@
       "basic",
       "default",
       "defaults",
-      "DJI",
       "expert",
       "filter",
       "filters",
@@ -189,37 +187,6 @@
     ]
   },
   "presets": [
-    {
-      "fullPath": "presets/2025.12/osd/UAV_tech_DJI.txt",
-      "hash": "de9e7c169ff14594f454ccb2330c5b289ea946f8cf2c145682a960fff105e7ba",
-      "title": "UAV Tech - DJI",
-      "firmware_version": [
-        "2025.12"
-      ],
-      "category": "OSD",
-      "status": "OFFICIAL",
-      "keywords": [
-        "DJI"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/2025.12/osd/UAV_tech_DJI_GPS.txt",
-      "hash": "a2f45fc44448579f611fe2e4e8bf6145fec0ef42b17952287b6c0344b0e1d990",
-      "title": "UAV Tech - DJI with GPS",
-      "firmware_version": [
-        "2025.12"
-      ],
-      "category": "OSD",
-      "status": "OFFICIAL",
-      "keywords": [
-        "DJI",
-        "GPS"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 0
-    },
     {
       "fullPath": "presets/2025.12/osd/defaults.txt",
       "hash": "82aecb211c6ed2fc0d6bcbefd59c2535b324c34f73c1c2649cdb821adaf2b63f",
@@ -274,7 +241,7 @@
     },
     {
       "fullPath": "presets/2025.12/tune/defaults.txt",
-      "hash": "8ae71425a27ac35d53b57e962d0e81ff22a6515b9ee2b94fe45c771492010eee",
+      "hash": "2a8c8ca333c99f8a1e46109e16896020923fa676a4327a965746e6e37f2844cc",
       "title": "Betaflight 2025.12 TUNE defaults",
       "firmware_version": [
         "2025.12"
@@ -619,7 +586,7 @@
     },
     {
       "fullPath": "presets/4.5/rates/Cedric_Rates.txt",
-      "hash": "b4c76eda8e4ba69b703d5292f42799e1285e97946c3159362714be8f150d94ed",
+      "hash": "7bcd42043f73de32966074095ce3fbaa413f05b7b1b56b9566c7dd25f2d63ac3",
       "title": "Cedric Rates",
       "firmware_version": [
         "4.3",
