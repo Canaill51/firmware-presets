@@ -151,8 +151,7 @@
     ],
     "author": [
       "Betaflight",
-      "GuiGui",
-      "UAV Tech (Mark Spatz)"
+      "GuiGui"
     ],
     "keywords": [
       "3d",
@@ -162,7 +161,6 @@
       "basic",
       "default",
       "defaults",
-      "DJI",
       "filter",
       "filters",
       "GPS",
@@ -182,37 +180,6 @@
     ]
   },
   "presets": [
-    {
-      "fullPath": "presets/2025.12/osd/UAV_tech_DJI.txt",
-      "hash": "de9e7c169ff14594f454ccb2330c5b289ea946f8cf2c145682a960fff105e7ba",
-      "title": "UAV Tech - DJI",
-      "firmware_version": [
-        "2025.12"
-      ],
-      "category": "OSD",
-      "status": "OFFICIAL",
-      "keywords": [
-        "DJI"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/2025.12/osd/UAV_tech_DJI_GPS.txt",
-      "hash": "a2f45fc44448579f611fe2e4e8bf6145fec0ef42b17952287b6c0344b0e1d990",
-      "title": "UAV Tech - DJI with GPS",
-      "firmware_version": [
-        "2025.12"
-      ],
-      "category": "OSD",
-      "status": "OFFICIAL",
-      "keywords": [
-        "DJI",
-        "GPS"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 0
-    },
     {
       "fullPath": "presets/2025.12/osd/defaults.txt",
       "hash": "82aecb211c6ed2fc0d6bcbefd59c2535b324c34f73c1c2649cdb821adaf2b63f",
@@ -267,7 +234,7 @@
     },
     {
       "fullPath": "presets/2025.12/tune/defaults.txt",
-      "hash": "8ae71425a27ac35d53b57e962d0e81ff22a6515b9ee2b94fe45c771492010eee",
+      "hash": "2a8c8ca333c99f8a1e46109e16896020923fa676a4327a965746e6e37f2844cc",
       "title": "Betaflight 2025.12 TUNE defaults",
       "firmware_version": [
         "2025.12"
@@ -479,6 +446,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/osd/defaults.txt",
+      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
+      "title": "Default 4.4 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/osd/GuiGui_OSD-No_GPS_Infos.txt",
       "hash": "dae48af2837081791a87d0c126fc2ce6f7a05d79dbdb19d060532816792a1c51",
       "title": "GuiGui OSD No GPS Infos settings",
@@ -494,23 +478,6 @@
         "OSD"
       ],
       "author": "GuiGui",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/osd/defaults.txt",
-      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
-      "title": "Default 4.4 OSD settings",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OSD",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "OSD"
-      ],
-      "author": "Betaflight",
       "priority": 0
     },
     {
@@ -551,7 +518,7 @@
     },
     {
       "fullPath": "presets/4.5/rates/GuiGui_Rates.txt",
-      "hash": "79b3b556a1f429cfd65bd3a4523e3c1dd3978bd38c0b2f242e1f28847cbbdb21",
+      "hash": "2874dd5047e6306fcddb84ab5bd99d5aed3d4091f8c420fd99087be377d7f6d8",
       "title": "GuiGui Rates",
       "firmware_version": [
         "4.3",
