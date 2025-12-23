@@ -171,9 +171,13 @@
       "OSD",
       "pid",
       "rates",
+      "RC",
       "rc link",
       "rc_link",
+      "rc_smoothing",
       "reset",
+      "Rx",
+      "smoothing",
       "switch",
       "tune",
       "upside down"
@@ -228,6 +232,28 @@
         "defaults",
         "rates",
         "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2025.12/rc_link/defaults.txt",
+      "hash": "db1fdbfe8ff47d4e8c263f651365dd07f7005933bc7311a63e583067b3ba6a70",
+      "title": "Reset RC related settings",
+      "firmware_version": [
+        "2025.12"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "Rx",
+        "RC",
+        "reset",
+        "rc link",
+        "rc_link",
+        "smoothing",
+        "rc_smoothing"
       ],
       "author": "Betaflight",
       "priority": 0
