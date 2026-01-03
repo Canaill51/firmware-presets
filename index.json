@@ -188,6 +188,24 @@
   },
   "presets": [
     {
+      "fullPath": "presets/2025.12/osd/Cedric_OSD.txt",
+      "hash": "ec605728e8c02250c82a4e92b10c25e2d9ba66b0ffddecdab4a85a4b4bca24aa",
+      "title": "Cedric OSD settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "2025.12"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Cedric",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/2025.12/osd/defaults.txt",
       "hash": "82aecb211c6ed2fc0d6bcbefd59c2535b324c34f73c1c2649cdb821adaf2b63f",
       "title": "Default 2025.12 OSD settings",
@@ -221,6 +239,24 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/2025.12/rates/Cedric_Rates.txt",
+      "hash": "7bcd42043f73de32966074095ce3fbaa413f05b7b1b56b9566c7dd25f2d63ac3",
+      "title": "Cedric Rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "2025.12"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates"
+      ],
+      "author": "Cedric",
+      "priority": 10000
     },
     {
       "fullPath": "presets/2025.12/rates/defaults.txt",
@@ -263,7 +299,7 @@
     },
     {
       "fullPath": "presets/2025.12/tune/defaults.txt",
-      "hash": "2a8c8ca333c99f8a1e46109e16896020923fa676a4327a965746e6e37f2844cc",
+      "hash": "45ed771374ec26cb8e755e2db3647ba01229c72daa5aad7b3b66764f2ba25317",
       "title": "Betaflight 2025.12 TUNE defaults",
       "firmware_version": [
         "2025.12"
@@ -553,24 +589,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/osd/Cedric_OSD.txt",
-      "hash": "1aa706e454f750a3ff20d946ea263af4ec04a36eb42b88775f264ae7a55b1466",
-      "title": "Cedric 4.4 OSD settings",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5",
-        "2025.12"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "OSD"
-      ],
-      "author": "Cedric",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.5/other/reset_3d.txt",
       "hash": "457090460225ee84ddb27a46e74530078f00741067dcf51fb5f3cec443b29d31",
       "title": "Reset 3D settings to 4.5 default settings",
@@ -605,24 +623,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/rates/Cedric_Rates.txt",
-      "hash": "7bcd42043f73de32966074095ce3fbaa413f05b7b1b56b9566c7dd25f2d63ac3",
-      "title": "Cedric Rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5",
-        "2025.12"
-      ],
-      "category": "RATES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "rates"
-      ],
-      "author": "Cedric",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.5/tune/defaults.txt",
