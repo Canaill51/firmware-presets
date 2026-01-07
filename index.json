@@ -151,7 +151,8 @@
     ],
     "author": [
       "Betaflight",
-      "GuiGui"
+      "GuiGui",
+      "sugarK"
     ],
     "keywords": [
       "3d",
@@ -168,8 +169,11 @@
       "leds",
       "mode",
       "modes",
+      "MultiGP",
       "OSD",
       "pid",
+      "quaddiction",
+      "racing",
       "rates",
       "RC",
       "rc link",
@@ -178,8 +182,10 @@
       "reset",
       "Rx",
       "smoothing",
+      "sugar k",
       "switch",
       "tune",
+      "tyrant",
       "upside down"
     ]
   },
@@ -260,7 +266,7 @@
     },
     {
       "fullPath": "presets/2025.12/tune/defaults.txt",
-      "hash": "2a8c8ca333c99f8a1e46109e16896020923fa676a4327a965746e6e37f2844cc",
+      "hash": "45ed771374ec26cb8e755e2db3647ba01229c72daa5aad7b3b66764f2ba25317",
       "title": "Betaflight 2025.12 TUNE defaults",
       "firmware_version": [
         "2025.12"
@@ -351,6 +357,52 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/SugarK.txt",
+      "hash": "a3ee0903ea8b08cde89aee1069ccb8b6947f441480b8ed36f10fe1355c6a3324",
+      "title": "Sugar k rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "2025.12"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "racing",
+        "rates",
+        "MultiGP",
+        "quaddiction",
+        "tyrant",
+        "sugar k"
+      ],
+      "author": "sugarK",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/SugarK_whoop.txt",
+      "hash": "3894baa10e5bb8d71351d246d2e47c85476ba974dda8e9ec7b71cbea5f841989",
+      "title": "Sugar k Whoop rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "2025.12"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "racing",
+        "rates",
+        "MultiGP",
+        "quaddiction",
+        "tyrant",
+        "sugar k"
+      ],
+      "author": "sugarK",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/defaults.txt",
