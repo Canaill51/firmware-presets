@@ -151,7 +151,8 @@
     ],
     "author": [
       "Betaflight",
-      "Cedric"
+      "Cedric",
+      "sugarK"
     ],
     "keywords": [
       "3d",
@@ -169,9 +170,12 @@
       "leds",
       "mode",
       "modes",
+      "MultiGP",
       "OSD",
       "partial",
       "pid",
+      "quaddiction",
+      "racing",
       "rates",
       "RC",
       "rc link",
@@ -181,8 +185,10 @@
       "Rx",
       "smoothing",
       "some",
+      "sugar k",
       "switch",
       "tune",
+      "tyrant",
       "upside down"
     ]
   },
@@ -390,6 +396,52 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/SugarK.txt",
+      "hash": "a3ee0903ea8b08cde89aee1069ccb8b6947f441480b8ed36f10fe1355c6a3324",
+      "title": "Sugar k rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "2025.12"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "racing",
+        "rates",
+        "MultiGP",
+        "quaddiction",
+        "tyrant",
+        "sugar k"
+      ],
+      "author": "sugarK",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/SugarK_whoop.txt",
+      "hash": "3894baa10e5bb8d71351d246d2e47c85476ba974dda8e9ec7b71cbea5f841989",
+      "title": "Sugar k Whoop rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "2025.12"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "racing",
+        "rates",
+        "MultiGP",
+        "quaddiction",
+        "tyrant",
+        "sugar k"
+      ],
+      "author": "sugarK",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/defaults.txt",
