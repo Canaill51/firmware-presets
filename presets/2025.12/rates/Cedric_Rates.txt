@@ -18,6 +18,7 @@
 # -- End Defaults --
 # -- Begin Cedric Rates --
 
+set angle_feedforward = 0
 set angle_limit = 30
 
 rateprofile 0
