@@ -31,8 +31,8 @@ set yaw_rc_rate = 14
 set roll_expo = 17
 set pitch_expo = 17
 set yaw_expo = 17
-set roll_srate = 70
-set pitch_srate = 68
+set roll_srate = 75
+set pitch_srate = 720
 set yaw_srate = 50
 
 rateprofile 1
