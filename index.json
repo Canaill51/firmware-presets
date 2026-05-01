@@ -140,6 +140,7 @@
       "4.5"
     ],
     "category": [
+      "BNF",
       "FILTERS",
       "LEDS",
       "MODES",
@@ -152,17 +153,21 @@
     "author": [
       "Betaflight",
       "Cedric",
+      "Safeer Hussain",
       "sugarK"
     ],
     "keywords": [
       "3d",
       "actual",
       "adjustments",
+      "air65",
       "aux",
       "basic",
+      "betafpv",
       "default",
       "defaults",
       "expert",
+      "factory",
       "filter",
       "filters",
       "GPS",
@@ -398,6 +403,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/rates/defaults.txt",
+      "hash": "b5ca502f48325e26d254127b4bc431415d127092910ac6053b00087ef5000ade",
+      "title": "Default rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rates",
+        "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/rates/SugarK.txt",
       "hash": "a3ee0903ea8b08cde89aee1069ccb8b6947f441480b8ed36f10fe1355c6a3324",
       "title": "Sugar k rates",
@@ -442,25 +466,6 @@
       ],
       "author": "sugarK",
       "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/defaults.txt",
-      "hash": "b5ca502f48325e26d254127b4bc431415d127092910ac6053b00087ef5000ade",
-      "title": "Default rates",
-      "firmware_version": [
-        "4.3",
-        "4.4",
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "rates",
-        "actual"
-      ],
-      "author": "Betaflight",
-      "priority": 0
     },
     {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
@@ -596,6 +601,26 @@
         "rc_link"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/betafpv_air65_racing_factory_safeerh.txt",
+      "hash": "6e1692a517095486d4b0ba929a620abe9c41a00c4963b4beb6006680d153eb46",
+      "title": "BETAFPV Air65 Racing Factory Settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "COMMUNITY",
+      "keywords": [
+        "betafpv",
+        "air65",
+        "racing",
+        "factory",
+        "defaults"
+      ],
+      "author": "Safeer Hussain",
+      "force_options_review": true,
       "priority": 0
     },
     {
