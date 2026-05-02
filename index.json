@@ -423,7 +423,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/SugarK.txt",
-      "hash": "a3ee0903ea8b08cde89aee1069ccb8b6947f441480b8ed36f10fe1355c6a3324",
+      "hash": "9bcff42152ede45546484374c2f853cc7d90070bf4f2e39a5004ffd37871f8ce",
       "title": "Sugar k rates",
       "firmware_version": [
         "4.3",
@@ -446,7 +446,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/SugarK_whoop.txt",
-      "hash": "3894baa10e5bb8d71351d246d2e47c85476ba974dda8e9ec7b71cbea5f841989",
+      "hash": "154e4fdf19ff3f6fccf135e030ce86266805c01682c6f7421ffa8fc7768503c5",
       "title": "Sugar k Whoop rates",
       "firmware_version": [
         "4.3",
