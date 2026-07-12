@@ -135,6 +135,7 @@
   "uniqueValues": {
     "firmware_version": [
       "2025.12",
+      "2026.6",
       "4.3",
       "4.4",
       "4.5"
@@ -526,13 +527,14 @@
     },
     {
       "fullPath": "presets/4.5/modes/GuiGui_Modes.txt",
-      "hash": "b7194228da857e11e05a1332203e9ed46da209cf6ff247c9fd36e468c13a9ed5",
+      "hash": "5d26be647ee74ebf41e13d3dbba258f4d970579e67e1f0776711a9afd77e25a1",
       "title": "GuiGui Modes",
       "firmware_version": [
         "4.3",
         "4.4",
         "4.5",
-        "2025.12"
+        "2025.12",
+        "2026.6"
       ],
       "category": "MODES",
       "status": "EXPERIMENTAL",
@@ -550,13 +552,14 @@
     },
     {
       "fullPath": "presets/4.5/osd/GuiGui_OSD-No_GPS_Infos.txt",
-      "hash": "dae48af2837081791a87d0c126fc2ce6f7a05d79dbdb19d060532816792a1c51",
+      "hash": "fbea335d857be03a038d3e35fe28e31fa512347164ef326c909e95d3a0e490c3",
       "title": "GuiGui OSD No GPS Infos settings",
       "firmware_version": [
         "4.3",
         "4.4",
         "4.5",
-        "2025.12"
+        "2025.12",
+        "2026.6"
       ],
       "category": "OSD",
       "status": "EXPERIMENTAL",
@@ -621,13 +624,14 @@
     },
     {
       "fullPath": "presets/4.5/rates/GuiGui_Rates.txt",
-      "hash": "4ddfdc58763f76ee4eb8622840e8acbada0234befef216613f3bcbfc309de678",
+      "hash": "10f433079bb922dcbf2e2964cfc5b2554c802f53c2836b3c61650169ee0a1fe4",
       "title": "GuiGui Rates",
       "firmware_version": [
         "4.3",
         "4.4",
         "4.5",
-        "2025.12"
+        "2025.12",
+        "2026.6"
       ],
       "category": "RATES",
       "status": "EXPERIMENTAL",
