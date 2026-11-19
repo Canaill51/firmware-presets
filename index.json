@@ -141,7 +141,6 @@
       "4.5"
     ],
     "category": [
-      "BNF",
       "FILTERS",
       "LEDS",
       "MODES",
@@ -153,41 +152,26 @@
     ],
     "author": [
       "Betaflight",
-      "Funkolius",
       "GuiGui",
-      "Safeer Hussain",
       "sugarK"
     ],
     "keywords": [
-      "2 in",
-      "2 inch",
-      "2.2 inch prop",
-      "2\\\"",
       "3d",
       "actual",
       "adjustments",
-      "air65",
       "aux",
       "basic",
-      "betafpv",
       "blackbox",
       "default",
       "defaults",
       "disable",
-      "factory",
       "filter",
       "filters",
-      "frame",
-      "freestyle",
-      "Funkolius",
       "GPS",
       "GPS_Rescue",
-      "impetus",
-      "impetus 2",
       "leds",
       "log",
       "logging",
-      "micro",
       "mode",
       "modes",
       "MultiGP",
@@ -655,26 +639,6 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.5/bnf/betafpv_air65_racing_factory_safeerh.txt",
-      "hash": "6e1692a517095486d4b0ba929a620abe9c41a00c4963b4beb6006680d153eb46",
-      "title": "BETAFPV Air65 Racing Factory Settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "BNF",
-      "status": "COMMUNITY",
-      "keywords": [
-        "betafpv",
-        "air65",
-        "racing",
-        "factory",
-        "defaults"
-      ],
-      "author": "Safeer Hussain",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.5/filters/defaults.txt",
       "hash": "618e82175f3f63abfcbdd5315e2c17d915f608ac42af22aa1256470f3d2ea5fe",
       "title": "Default 4.5 Filter settings",
@@ -807,31 +771,6 @@
       ],
       "author": "GuiGui",
       "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.5/tune/Funkolius_Impetus_Frame.txt",
-      "hash": "96301abc0cac07a9f3b70ebcd82e52194d161bdb38968d48b8c60d41db888859",
-      "title": "Funkolius - Impetus 2 Frame",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "freestyle",
-        "impetus 2",
-        "impetus",
-        "micro",
-        "2 inch",
-        "2 in",
-        "2\\\"",
-        "2.2 inch prop",
-        "frame",
-        "Funkolius"
-      ],
-      "author": "Funkolius",
-      "force_options_review": false,
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.5/tune/defaults.txt",
